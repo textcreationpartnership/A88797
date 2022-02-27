@@ -1,0 +1,1027 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The penitent lady: or Reflections on the mercy of God. Written by the fam'd Madam La Valliere, since her retirement from the French king's court to a nunnery. Translated from the French by L.A. M.A.</title>
+            <title>Reflexions sur la misericorde de Dieu. English. 1685</title>
+            <author>La Vallière, Françoise-Louise de La Baume Le Blanc, duchesse de, 1644-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 76 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88797</idno>
+            <idno type="STC">Wing L623H</idno>
+            <idno type="STC">ESTC R179362</idno>
+            <idno type="EEBO-CITATION">43663304</idno>
+            <idno type="OCLC">ocm 43663304</idno>
+            <idno type="VID">172064</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88797)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172064)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2612:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The penitent lady: or Reflections on the mercy of God. Written by the fam'd Madam La Valliere, since her retirement from the French king's court to a nunnery. Translated from the French by L.A. M.A.</title>
+                  <title>Reflexions sur la misericorde de Dieu. English. 1685</title>
+                  <author>La Vallière, Françoise-Louise de La Baume Le Blanc, duchesse de, 1644-1710.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The Second Edition.</edition>
+               </editionStmt>
+               <extent>[30], 110, [1] p., 1 leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Dorman Newman, at the Kings-Arms in the Pultrey,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Engraved frontispiece captioned: Madame La Valliere.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Early works to 1800.</term>
+               <term>Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:172064:1"/>
+            <pb facs="tcp:172064:1" rendition="simple:additions"/>
+            <pb facs="tcp:172064:2"/>
+            <pb facs="tcp:172064:2"/>
+            <pb facs="tcp:172064:3"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of nun praying</figDesc>
+                  <head>Madame La <g ref="char:V">Ʋ</g>alliere</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:172064:3"/>
+            <p>
+               <hi>The Penitent Lady:</hi> OR REFLECTIONS ON THE MERCY OF GOD.</p>
+            <p>Written by the Fam'd Madam <hi>La Valliere,</hi> Since Her Retirement from the <hi>French</hi> King's Court to a <hi>Nunnery.</hi>
+            </p>
+            <p>TRANSLATED From the <hi>French</hi> by <hi>L. A.</hi> M. A.</p>
+            <p>The Second Edition.</p>
+            <q>
+               <p>A broken and a contrite Heart, O God, thou wilt not deſpiſe,</p>
+               <bibl>Pſal. 51.17.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Dorman Newman,</hi> at the <hi>Kings-Arms</hi> in the <hi>Poultrey,</hi> 1685.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:172064:4"/>
+            <pb facs="tcp:172064:4"/>
+            <head>The Preface.</head>
+            <p>'TIS a common Saying, con<g ref="char:EOLhyphen"/>firm'd by Experi<g ref="char:EOLhyphen"/>ence, <hi>That Exam<g ref="char:EOLhyphen"/>ple is far more prevalent than Precept;</hi> and the Reaſon is, becauſe the one ſeems to be <hi>the tranſcript of our Mind,</hi> whereas 'tis evident that the other is too often biaſs'd by
+<pb facs="tcp:172064:5"/>
+               <hi>Intereſt,</hi> and an over<g ref="char:EOLhyphen"/>weaning conceit of our own Sufficiency. For <hi>Pride</hi> and <hi>Vain<g ref="char:EOLhyphen"/>glory</hi> may incline that Man to recommend <hi>Mortification</hi> and <hi>Re<g ref="char:EOLhyphen"/>pentance,</hi> and extol even the <hi>Stoiciſm</hi> of <hi>Cato,</hi> who privately hugs and careſſes his darling <hi>Lust</hi> and leads a Life more luxurious than <hi>Sardanapalus:</hi> but
+<pb facs="tcp:172064:5"/>he who in the vigour of his Youth and the full career of Pleaſure ſets bounds to his inordinate <hi>Appetites,</hi> who retires from the World and its <hi>Va<g ref="char:EOLhyphen"/>nities,</hi> before they leave him; he plainly demonſtrates, that there is ſome more ſublime Happineſs he perſues after, ſome more perfect <hi>Good</hi>
+               <pb facs="tcp:172064:6"/>which attracts his Af<g ref="char:EOLhyphen"/>fections. And there<g ref="char:EOLhyphen"/>fore one great end of our Saviours coming into the World was to be <hi>a Pattern of Holy Living and Dying,</hi> to convince us, that not<g ref="char:EOLhyphen"/>withſtanding the In<g ref="char:EOLhyphen"/>firmities of our <hi>Na<g ref="char:EOLhyphen"/>ture,</hi> the moſt ſtub<g ref="char:EOLhyphen"/>born <hi>Lusts</hi> may be ſubdu'd, the moſt allu<g ref="char:EOLhyphen"/>ring <hi>Temptations</hi> may
+<pb facs="tcp:172064:6"/>be <hi>reſisted,</hi> and <hi>Goſpel-obedience</hi> may be per<g ref="char:EOLhyphen"/>form'd if we call in his <hi>Grace</hi> to the aſ<g ref="char:EOLhyphen"/>ſiſtance of our <hi>honeſt endeavours.</hi> God re<g ref="char:EOLhyphen"/>quires nothing of us but what is highly <hi>juſt</hi> and <hi>reaſonable,</hi> what he gives us power to <hi>perform;</hi> and in all Ages of the World he ſets before our eyes the <hi>Examples</hi>
+               <pb facs="tcp:172064:7"/>of ſome <hi>Heroick Souls,</hi> who bravely conquer thoſe <hi>Armado's</hi> of <hi>Temptations</hi> we are apt to fancy <hi>invincible,</hi> and prefer the igno<g ref="char:EOLhyphen"/>miny of the <hi>Croſs,</hi> before the moſt luſci<g ref="char:EOLhyphen"/>ous gratifications of <hi>ſence.</hi> In the firſt rank of theſe, I may place this <hi>Penitent Lady,</hi> the Authoreſs of theſe <hi>de<g ref="char:EOLhyphen"/>vout Reflections,</hi> which
+<pb facs="tcp:172064:7"/>I hope will find the better entertainment in our <hi>Engliſh</hi> Na<g ref="char:EOLhyphen"/>tions, becauſe Tranſla<g ref="char:EOLhyphen"/>ted from the <hi>French;</hi> for ſince we are ſo fooliſhly fond of the <hi>Apes</hi> and <hi>Peacocks,</hi> the <hi>Modes</hi> and <hi>Vanities</hi> of that People, I have no reaſon to fear that their <hi>Gold</hi> will be an unacceptable Preſent. It may perhaps be
+<pb facs="tcp:172064:8"/>expected that I ſhould give an Account of the former Life of this <hi>devout Convert,</hi> but ſince that is already done in ano<g ref="char:EOLhyphen"/>ther<note n="*">The Hiſtory of the Amours of the <hi>French</hi>-Court.</note> Book, by a light &amp; amorus Pen, I ſhall not intermix any part of it with ſo grave and ſerious a Subject; beſides, the Publiſher of theſe Papers in the Original, ſeems mo<g ref="char:EOLhyphen"/>deſtly
+<pb facs="tcp:172064:8"/>to decline it. 'Twill more nearly concern us curiouſly to pry into our <hi>hearts, to examine what ſins we have been guilty of,</hi> to <hi>imitate her Repen<g ref="char:EOLhyphen"/>tance,</hi> and ſeriouſly to Meditate on theſe <hi>Pi<g ref="char:EOLhyphen"/>ous Reflections,</hi> which, like the Nails in the Hand of <hi>Jael,</hi> may with the <hi>Aſſiſtance of the Holy Spirit, faſten
+<pb facs="tcp:172064:9"/>our Corruptions to the feet of Christ's Croſs.</hi>
+            </p>
+            <p>I foreſee it will be objected that this Pi<g ref="char:EOLhyphen"/>cture is copied from a <hi>Popiſh</hi> Original. And truly 'twas this Con<g ref="char:EOLhyphen"/>ſideration which for ſome time diverted my Reſolutions of making it publick; but after I have ſeveral times carefully re<g ref="char:EOLhyphen"/>view'd it, I cannot
+<pb facs="tcp:172064:9"/>diſcover the leaſt ſtroke or Lineament of ſo Monſtrous a Parent, but rather ſtand amaz'd, that this precious <hi>Jewel</hi> ſhould be found amongſt the rubbiſh of the <hi>Rom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh</hi> Church. I am h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<g ref="char:EOLhyphen"/>tily convinc'd, that the <hi>Principles</hi> of that Perſwaſion tend to the encouragement of <hi>Vice,</hi> and the promo<g ref="char:EOLhyphen"/>ting
+<pb facs="tcp:172064:10"/>
+               <hi>Debauchery,</hi> and therefore am aſto<g ref="char:EOLhyphen"/>niſh'd at this <hi>Miracle of Gods Mercy,</hi> which from ſo corrupt a Tree has produc'd ſuch <hi>Good Fruit.</hi> For my part, I am inclin'd to think, that either her Mind was extra<g ref="char:EOLhyphen"/>ordinarily enlighten'd or elſe that by the very light of Nature ſhe diſcover'd the perni<g ref="char:EOLhyphen"/>cious
+<pb facs="tcp:172064:10"/>Tenents of rhat Church.</p>
+            <p>And this may ſerve to inſtruct us, that the influences of God's <hi>Holy Spirit</hi> are not confin'd to ſo narrow a Sphere as ſome mens uncharitableneſs would ſuggeſt, but that <hi>in every Nation he that feareth God and worketh Righteouſneſs ſhall be accepted of him.</hi>
+               <pb facs="tcp:172064:11"/>Thoſe who are of a contrary Opinion would do well to tranſmit to Poſterity ſome more eminent Examples of Peni<g ref="char:EOLhyphen"/>tence, and genuine Inſtances of fervent Devotion. And in the mean while, let me beſeech them to look over theſe Pa<g ref="char:EOLhyphen"/>pers, to conform their Lives to the Practice
+<pb facs="tcp:172064:11"/>of the Truths con<g ref="char:EOLhyphen"/>tain'd therein; leſt at the <hi>last Day they ſhould ſee</hi> Publicans <hi>and</hi> Harlots <hi>enter in<g ref="char:EOLhyphen"/>to the Kingdom of Heaven, whilſt they themſelves are ſhut out.</hi>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:172064:12"/>
+            <head>The Contents.</head>
+            <list>
+               <item>
+                  <label>REFLECTION I.</label> 
+                  <g ref="char:V">Ʋ</g>pon our Obligations to Conſecrate that Life to Gods Glory, which we hold from his Mercy, and the Care you ought to take, leſt we ſhould be Inſnar'd into ſin. <hi>Fol. 1.</hi>
+               </item>
+               <item>
+                  <label>REFLECT. II.</label> She Prays unto God, to ſtrengthen her Reſolutions, and to enable her to approach unto him with a pure heart. <hi>4</hi>
+               </item>
+               <item>
+                  <label>REFLECT. III.</label> 
+                  <g ref="char:V">Ʋ</g>pon thoſe Vertues which are ne<g ref="char:EOLhyphen"/>ceſſary for our approaching unto Christ; from the Example of the <hi>Canaanite,</hi> the <hi>Samara<g ref="char:EOLhyphen"/>tan,</hi> and <hi>Mary Magdalen. 8</hi>
+               </item>
+               <item>
+                  <label>REFLECT. IV.</label> Concerning the Conſtancy and Sta<g ref="char:EOLhyphen"/>bility of the Faith, neceſſary to a Penitent Soul. <hi>12</hi>
+               </item>
+               <pb facs="tcp:172064:12"/>
+               <item>
+                  <label>REFLECT. V.</label> The Thoughts of a penitent Soul, fearful of being deceiv'd by the Appearance of a Falſe Conver<g ref="char:EOLhyphen"/>ſion. <hi>16</hi>
+               </item>
+               <item>
+                  <label>REFLECT. VI.</label> 
+                  <g ref="char:V">Ʋ</g>pon the Oppoſition of a Worldly Life to the ſuffering Life of Jeſus Chriſt, <hi>24</hi>
+               </item>
+               <item>
+                  <label>REFLECT. VII.</label> What the Hope of a Penitent Soul ought to be, <hi>24</hi>
+               </item>
+               <item>
+                  <label>REFLECT. VIII.</label> What Effect a true Repentance ought to have upon our Couverſations and what kind of Guide ſhe ought to enquire after for the conduct of her Soul, <hi>27</hi>
+               </item>
+               <item>
+                  <label>REFLECT. IX.</label> She prays that out of his Mercy he would be pleas'd to direct her con<g ref="char:EOLhyphen"/>tinually in the ſtraight Way which leads unto him, and not permit her ro flatter her ſelf, that ſhe has repented, when ſhe is running
+<pb facs="tcp:172064:13"/>on ſtill in the broad way, <hi>31</hi>
+               </item>
+               <item>
+                  <label>REFLECT. X.</label> Motives of Trust in God, and Di<g ref="char:EOLhyphen"/>ſtrust of our ſelves. Jeſus Christ alone can confirm our Faith and ſtrengthen our Hope, <hi>34</hi>
+               </item>
+               <item>
+                  <label>REFLECT. XI.</label> She Prays to God for a New Heart inflam'd with his Love, <hi>41</hi>
+               </item>
+               <item>
+                  <label>REFLECT. XII.</label> If the Soul finds any thing in this World to ſettle its Affections upon: How much the more ear<g ref="char:EOLhyphen"/>neſtly ought it to fix them upon God after its Converſion, <hi>44</hi>
+               </item>
+               <item>
+                  <label>REFLECT. XIII.</label> That a Penitent Soul ſhould not examine what Sins are Dam<g ref="char:EOLhyphen"/>nable and what not, but avoid all appearance of Evil, every thing which may diſpleaſe God; lest indulging it ſelf in leſſer crimes, it relapſe at last into Habitual Debauchery, <hi>48</hi>
+               </item>
+               <pb facs="tcp:172064:13"/>
+               <item>
+                  <label>REFLECT. XIV,</label> She prays unto God inſtantly, that he would be pleas'd to knock off thoſe Chains which unite her Affections to the Creature; to grant her freſh Recruits of his Mercy, and Grace to make the right uſe of them, <hi>54</hi>
+               </item>
+               <item>
+                  <label>REFLECT. XV</label> What kind of Life that Perſon ought to lead who is under a Ne<g ref="char:EOLhyphen"/>ceſſity, of Converſing much in the World; that 'tis her Duty to reſist whatſoever is contrary to the Commands of Jeſus Chriſt, <hi>57</hi>
+               </item>
+               <item>
+                  <label>REFLECT. XVI.</label> That ſhe ſhould aſſociate her ſelf with thoſe perſons who truly fear God, and that ſhe ought not to entangle her ſelf again in thoſe things which the World calls State, Riches, Fortune, and Gran<g ref="char:EOLhyphen"/>deur, <hi>63</hi>
+               </item>
+               <pb facs="tcp:172064:14"/>
+               <item>
+                  <label>REFLECT. XVII.</label> That Charity to wards our Neigh<g ref="char:EOLhyphen"/>bour obliges us carefully to avoid not only every Action which may be injurious to his Life, Goods, and Reputation; but alſo de<g ref="char:EOLhyphen"/>tracting Speeches, and fooliſh jeſting, <hi>69</hi>
+               </item>
+               <item>
+                  <label>REFLECT. XVIII.</label> That ſhe ought to deſire of God the Gift of Prayer? which is the only means the Soul can make uſe of to confirm its wavering Reſolu<g ref="char:EOLhyphen"/>tions, <hi>74</hi>
+               </item>
+               <item>
+                  <label>REFLECT. XIX.</label> What the Nature of Prayer is, and how faithful a Penitent Soul ought to be to its Reſolutions of conſtantly performing this Holy Exerciſe. <hi>78</hi>
+               </item>
+               <item>
+                  <label>REFLECT. XX.</label> That the Miſery to which Sin has reduc'd us, ought to be the Sub<g ref="char:EOLhyphen"/>ject of our Prayers, and that 'tis good to begin them with the
+<pb facs="tcp:172064:14"/>Conſiderations of the ſtupendi<g ref="char:EOLhyphen"/>ous Myſtery of our Saviour's Paſſion. <hi>84</hi>
+               </item>
+               <item>
+                  <label>REFLECT. XXI,</label> That we ought not to be weary of Praying, becauſe we do not find preſent Comfort, but that we ſhould be faithful to our Reſolu<g ref="char:EOLhyphen"/>tions, and have recourſe to this Holy Exerciſe, when we are wrack'd by the greatest pains, and diſtreſs'd by the ſeverest Af<g ref="char:EOLhyphen"/>flictions. <hi>87</hi>
+               </item>
+               <item>
+                  <label>REFLECT. XXII.</label> The in diſpenſable Neceſſity of Pray<g ref="char:EOLhyphen"/>er, without which 'tis impoſſible to have any ſerious thoughts of our Salvation, <hi>93</hi>
+               </item>
+               <item>
+                  <label>REFLECT. XXIII.</label> She deſires of God the Gift of Prayer, that ſhe may make Death, Eternity, and God's Judgments the Subject of it; which are the proper means to ſeaſon our Souls with the Fear of God. <hi>99</hi>
+               </item>
+               <pb facs="tcp:172064:15"/>
+               <item>
+                  <label>REFLECT. XXIV</label> That ſhe will every Day offer up unto God the Sacrifice of Thankſ<g ref="char:EOLhyphen"/>giving, for opening her Eyes and converting her unto him<g ref="char:EOLhyphen"/>ſelf. That ſhe will Write down theſe Reſolutions which ſhe made at the time of her Converſion; to the end that ſhe may be al<g ref="char:EOLhyphen"/>ways mindful of theſe Obliga<g ref="char:EOLhyphen"/>tions ſhe has laid upon her ſelf, and by which ſhe muſt be Judg'd at the Last Day, <hi>105</hi>
+               </item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172064:15"/>
+            <head>AN Advertiſement.</head>
+            <p>IT was the ſaying of a Fa<g ref="char:EOLhyphen"/>ther of the <hi>Church,</hi> That 'tis more eaſie to find out a Man that has preſerv'd his Innocency from his Baptiſm, than a ſincere and hearty Peni<g ref="char:EOLhyphen"/>tent; Becauſe few are Con<g ref="char:EOLhyphen"/>verted as they ought to be: Nevertheleſs, God, out of his infinite Goodneſs and Compaſ<g ref="char:EOLhyphen"/>ſion, does from time to time turn the Hearts of ſome Prodi<g ref="char:EOLhyphen"/>gious Sinners; demonſtrating to the World, that he is truly
+<pb facs="tcp:172064:16"/>a God of Mercy, and that there is no Man who has been never ſo deſperately Wicked, but he will receive him, if he returns with a heart truly ſen<g ref="char:EOLhyphen"/>ſible of his Offences. He does not deſire the Death of a Sin<g ref="char:EOLhyphen"/>ner, for he came to lay down his Life for ſuch, but only that they would be Converted and live. Now if the whole Church ſtood amaz'd at the Converſion of a <hi>Prince</hi> whoſe Devotion was not ſurpaſs'd by the auſte<g ref="char:EOLhyphen"/>reſt Votaries of the times he liv'd in: We have no leſs rea<g ref="char:EOLhyphen"/>ſon to admire this of <hi>a Lady,</hi> whom the Mercy of God ſingled out from a debauch'd Age, the affluence of all ſinful Pleaſures, to be a Miracle of Penitence.
+<pb facs="tcp:172064:16"/>For it will be eaſie to judge by theſe Pious Reflections, (which are now made Publick, and were Compoſed after her Re<g ref="char:EOLhyphen"/>tirement from the World, and Recovery from a dangerous fit of Sickneſs) that her Soul was deeply affected with a Divine Love; and that by how much the more earneſt ſhe was in the perſuit of ſinful Pleaſures, and forgetful of her Eternal Wel<g ref="char:EOLhyphen"/>fare, by ſo much the more ſhe is at preſent inſpired with the Love of God, and deſires Life it ſelf, for no other purpoſe, than to get an Intereſt in her Saviours Merits, and to blot out the Infamy of her former Life, by a ſincere Repentance. Her Name is concealed out of
+<pb facs="tcp:172064:17"/>reſpect to her Modeſty and Hu<g ref="char:EOLhyphen"/>mility, which would never have permitted theſe Papers to have been Printed, had they not been convey'd away by a vertuous Lady, who eſteem'd it a great piece of Injuſtice to with-hold ſo profitable an Help from thoſe poor Souls who are deſirous to Reform their Lives and bid Adieu to their Vicious Con<g ref="char:EOLhyphen"/>verſations. For tho' ſeveral Books have been writ on this Subject, yet ſhe look'd upon this as the beſt Model'd and Pen'd with the moſt Divine and Mo<g ref="char:EOLhyphen"/>ving Expreſſions that ever ſhe ſaw. God grant that they who Read theſe Lines may be In<g ref="char:EOLhyphen"/>ſpired with the ſame Thoughts this Devout Soul was; That
+<pb facs="tcp:172064:17"/>thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have been guilty of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſame Sins, may imitate her Repentance, and Husband that Time which the Mercy of God has prolonged to them, in conſidering what will conduce to the advantage of their Im<g ref="char:EOLhyphen"/>mortal Souls.</p>
+            <pb facs="tcp:172064:18"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172064:18"/>
+            <head>REFLECTIONS ON THE Mercy of GOD, <hi>In Form of Prayers.</hi>
+            </head>
+            <div n="1" type="reflection">
+               <head>
+                  <hi>REFLECTION I.</hi> 
+                  <g ref="char:V">Ʋ</g>pon our Obligations to Conſecrate that Life to Gods Glory, which we hold from his Mercy, and the Care you ought to take, leſt we ſhould be Inſnar'd into ſin.</head>
+               <p>WHat ſhall I render unto my God, for giving me Life and Health, for Reprieving me from the Gates of Hell and preſerving my Soul;
+<pb n="2" facs="tcp:172064:19"/>and in ſhort, for all thoſe Fa<g ref="char:EOLhyphen"/>vours which he has vouchſafed to me his poor Servant?</p>
+               <p>Shall it ſuffice, O my God, to acknowledge thy Benefits? will it be any recompence, to employ the remainder of that time in thy ſervice, which hitherto has been ſpent in affronting thy Majeſty? or will the divorcing thoſe un<g ref="char:EOLhyphen"/>lawful Pleaſures, to which I have been formerly wedded, ſatisfie thy Juſtice, and blot out my Tranſgreſſions? In ſhort, will it be ſufficient to ſecure me from Eternal Miſery, that hence<g ref="char:EOLhyphen"/>forward I will aſpire after no<g ref="char:EOLhyphen"/>thing but Eternal Happineſs, the fruition of thy ſelf, and thoſe raviſhing Pleaſures which are at thy right-hand for ever<g ref="char:EOLhyphen"/>more?</p>
+               <p>Grant that thy Rays may en<g ref="char:EOLhyphen"/>lighten my Reaſon, and that thy Grace may penetrate my Soul;
+<pb n="3" facs="tcp:172064:19"/>help me out of that deplorable eſtate into which I am fallen, and inſpire me with Faith to pray unto thee; and good God, ſuffer me not to fall into ſuch a Lethar<g ref="char:EOLhyphen"/>gy as may render me unmindful of my Souls health, <hi>or ſleep the ſleep of Eternal Death.</hi>
+               </p>
+               <p>Oh let me never forget that dreadful hour, when thou cald'ſt me to an account for my ſins; when I beheld Death ready to ſeize upon my ſoul and carry it into everlaſting torments; and let thy infinite compaſſion be deeply engraven upon my me<g ref="char:EOLhyphen"/>mory, which <hi>in the midst of Judgment did remember Mercy,</hi> and reſcue me from thy fiery in<g ref="char:EOLhyphen"/>dignation.</p>
+               <p>Oh that the Joy which fills my Soul for the return of my Health may not Juſtle out thy Grace, and Reconcile me to the World, that thoſe vain <hi>Ideas</hi> of Senſua<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:172064:20"/>Pleaſure, may be quite ras'd ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of my fancy, and neverre-aſſum<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the place of thoſe ſolid Truths which by thy Mercy are writte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there.</p>
+            </div>
+            <div n="2" type="reflection">
+               <head>
+                  <hi>REFLECT. II.</hi> She Prays unto God, to ſtrengthen her Reſolutions, and to enable her to approach unto him with a pure heart.</head>
+               <p>REſtore unto me, O my God, the health of my Soul, and enable me to deſire of thee, a<g ref="char:EOLhyphen"/>bove all things, that Holy Joy which the viciſſitudes of theſe ſublunary things cannot deprive me of; I mean the Joy to ſee my ſelf redeem'd from the ſlavery of ſin, in a ſtate of ſalvation, and led by the hand of thy Di<g ref="char:EOLhyphen"/>vine Providence, to my Heavenly
+<pb n="5" facs="tcp:172064:20"/>
+                  <hi>Canaan</hi> Seaſon alſo my Heart with thy Grace, that Spirit and Principle of Action, which, ha<g ref="char:EOLhyphen"/>ving-waſh'd us clean in the Blood of our Saviour, furniſhes us with ſtrength <hi>to perſevere to the end in the way of his Com<g ref="char:EOLhyphen"/>mandments.</hi>
+               </p>
+               <p>For alas! what will become of thoſe Vows which I made unto thee, when I was ſurrounded with Fear, and in danger of loſing my Soul; I ſay, what will become of them, unleſs thou, O Lord, out of the abundance of thy Mercy art-pleas'd to im<g ref="char:EOLhyphen"/>print them on my mind, fix them in my thoughts, and enable m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to conquer the Temptations of my viſible and inviſible Enemies, who uſe all means poſſible, ei<g ref="char:EOLhyphen"/>ther to terrifie, or to decoy me into ſin.</p>
+               <p>O Lord, who ſuccoureſt the poor, and takeſt pleaſure in thoſe
+<pb n="4" facs="tcp:172064:21"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:172064:21"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:172064:22"/>that come unto thee with Faith, and with an humble and contrite Heart; We acknowledge our ſelves to be weak and miſerable Creatures, and relie wholly upon thy Grace, the proper Medicine to heal and comfort us. <hi>Search my Heart and try my Reins,</hi> and grant me that infallible Medicine which diſpels the moſt conta<g ref="char:EOLhyphen"/>gious fumes of ſin; which will ſanctifie my Soul, and preſerve it ſafe unto Everlaſting Life.</p>
+               <p>But grant me alſo, O my God that whilſt I beg theſe Bleſſings of thee, I may be endow'd with ſuch a frame of mind, and ſuch other qualifications, as encline thee to ſay, <hi>Amen,</hi> to my peti<g ref="char:EOLhyphen"/>tions.</p>
+               <p>Prepare your ſelves, O my Body, my Spirit, and my Soul, by the aſſiſtance of God's grace, to appear before your Maſter and your God; to the end that
+<pb n="7" facs="tcp:172064:22"/>he may apply that Divine Me<g ref="char:EOLhyphen"/>dicine which will make you whole.</p>
+               <p>For how dare I approach the Holy of Holies, without pre<g ref="char:EOLhyphen"/>paration, and intrude my ſelf a moſt miſerable ſinner into the preſence of my God?</p>
+               <p>Therefore, O Lord, make me ſenſible of my want and miſery, and of thy Majeſty and Love, be<g ref="char:EOLhyphen"/>fore I come to this Heavenly Banquet, where <hi>I ſhall eat and drink, either my Eternal Health, or Damnation.</hi>
+               </p>
+            </div>
+            <div n="3" type="reflection">
+               <pb n="8" facs="tcp:172064:23"/>
+               <head>
+                  <hi>REFLECT. III.</hi> 
+                  <g ref="char:V">Ʋ</g>pon thoſe Vertues which are ne<g ref="char:EOLhyphen"/>ceſſary for our approaching unto Christ; from the Example of the <hi>Canaanite,</hi> the <hi>Samara<g ref="char:EOLhyphen"/>tan,</hi> and <hi>Mary Magdalen.</hi>
+               </head>
+               <p>TEach me in the trouble of my Spirit, and anguiſh of my Heart, with what degree of grief my Soul ought to be af<g ref="char:EOLhyphen"/>fected for its Offences againſt ſo great, ſo good a God; and what Purity of Body and Soul is re<g ref="char:EOLhyphen"/>quired, that it may be filled with Divine ſhame.</p>
+               <p>How I may offer up a pure and agreeable Sacrifice too thee, having now a mind too much delighted in the vanities of the world, and a heart too much led away by them.</p>
+               <pb n="9" facs="tcp:172064:23"/>
+               <p>How I may lodge thee in the Temple of my Breaſt, from whence, with difficulty, I have juſt now chas'd thy moſt invete<g ref="char:EOLhyphen"/>rate Enemies.</p>
+               <p>In ſhort, the Way for a No<g ref="char:EOLhyphen"/>torious Sinner, who is without Repentance and without Love, to be made Partaker of that Chriſt who was crucified for him, is, to defer coming to the Table of the Lord, until he is duly prepared, leſt he commit the moſt hainous Sacriledge. Inſpire me then with ſuch a hatred of ſin, as may confirm my reſolu<g ref="char:EOLhyphen"/>tions to abſtain from every thing that diſpleaſeth thee, and with Paſſionate deſires to love thee alone.</p>
+               <p>
+                  <hi>Give me that humble and con<g ref="char:EOLhyphen"/>trite ſpirit whoſe groans thou doſt never refuſe;</hi> I would ſay, Inſpire me by thy Grace, with the ſelf-ſame diſpoſitions with
+<pb n="10" facs="tcp:172064:24"/>which the poor <hi>Canaanite</hi> pro<g ref="char:EOLhyphen"/>ſtrated her ſelf at thy feet.</p>
+               <p>Look upon me, O Lord, whilſt I approach unto thee, as thou didſt that humble ſtranger. I would ſay as a poor Dog, who is ſufficiently happy, when per<g ref="char:EOLhyphen"/>mitted to pick up the Crumbs which fall from the Table where thou feaſteſt thine Elect.</p>
+               <p>Look with compaſſion upon this poor ſinner, who, like the <hi>Samari<g ref="char:EOLhyphen"/>tan</hi> woman, being inflamed with a ſenſe of her ſins, beſeeches one drop of Living Water, to quench the fervor of her ſoul, and thirſt of ſin.</p>
+               <p>But above all, incline me to Imitate <hi>Mary Magdalen;</hi> with that holy penitent, <hi>let me waſh thy Feet with my Tears,</hi> and by indeavouring to love thee much, in ſome meaſure anſwer thy love in forgiving me much.</p>
+               <pb n="11" facs="tcp:172064:24"/>
+               <p>Deal with me as with theſe three Holy Women, whom thou haſt made the living Witneſſes of thy Mercy; that by theſe Ex<g ref="char:EOLhyphen"/>amples I may be taught what truſt ought to be put in thy Good<g ref="char:EOLhyphen"/>neſs. Fit me, O Lord for the ap<g ref="char:EOLhyphen"/>proaching thy Table, and par<g ref="char:EOLhyphen"/>ticipating of thy Divine Myſte<g ref="char:EOLhyphen"/>ries. Give me a lively, humble and conſtant Faith, which may produce an Univerſal Obedi<g ref="char:EOLhyphen"/>ence to thy Law, the ſolid foun<g ref="char:EOLhyphen"/>dation of my Eternal Welfare.</p>
+            </div>
+            <div n="4" type="reflection">
+               <pb n="12" facs="tcp:172064:25"/>
+               <head>
+                  <hi>REFLECT. IV.</hi> Concerning the Conſtancy and St<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bility of the Faith, neceſſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to a Penitent Soul.</head>
+               <p>GIVe me therefore, O Lord a lively Faith, which ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> animate all my Actions, and not<g ref="char:EOLhyphen"/>withſtanding my weakneſs, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>riſh thy Love and thy Grace i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my Soul. A ſtedfaſt Faith, where<g ref="char:EOLhyphen"/>by I may ſincerely believe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Holy Word, and when th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> World allures me with its temp<g ref="char:EOLhyphen"/>tations put me in mind, that <hi>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> man can ſerve two Maſters.</hi>
+               </p>
+               <p>A humble Faith whereby I may diſcern that conformity to this World is the greateſt impedi<g ref="char:EOLhyphen"/>ment of my conformity unto Jeſus Chriſt.</p>
+               <p>In fine, an enlightned Faith which may render the Grandeur
+<pb n="13" facs="tcp:172064:25"/>of this World contemptible to me, and demonſtrate <hi>that the faſhion of this World paſſes a<g ref="char:EOLhyphen"/>way,</hi> and that there is nothing ſolid and laſting, but God alone. For alas! my beſt deſires are fleeting and unconſtant, <hi>like the flowers of the field, which to day are, and to morrow are cut down and wither.</hi>
+               </p>
+               <p>O Lord, who art delighted in acts of Mercy, and who alone canſt change the heart, turn my inconſtancy into a ſteady reſolu<g ref="char:EOLhyphen"/>tion of ſerving thee, and my ir<g ref="char:EOLhyphen"/>regular paſſions into an earneſt perſuit of thy love.</p>
+               <p>Let it not ſuffice me, that I am diſguſted with worldly things, or perhaps eſtranged from them; this may proceed from a ſpirit of pride, or be the effort of my reaſon. But direct my ways and purifie my thoughts, that at the ſame time I am convinc'd of the
+<pb n="14" facs="tcp:172064:26"/>vanity and emptineſs of earthly things, I may be alſo aſſiſted with thy grace to teturn unto thee; that my Heart being cleans'd, in<g ref="char:EOLhyphen"/>ſtead of thoſe Legions of Vani<g ref="char:EOLhyphen"/>ties, which have formerly poſ<g ref="char:EOLhyphen"/>ſeſs'd it, it may be conſecrated a Holy Temple, and dedicated to the Service of my God.</p>
+               <p>Preſerve me from the ſweet poyſon of the pleaſures of this World, that ſun-ſhine of Fortune, which ſooner diſrobes us of our Innocence, than the moſt ſevere blaſts of Adverſity. Let me look up unto no other God or Provi<g ref="char:EOLhyphen"/>dence than thine alone.</p>
+               <p>Correct me, O Lord, but with the chaſtiſement of a Son, which in the midſt of the moſt glitter<g ref="char:EOLhyphen"/>ing proſperity afflicts and hum<g ref="char:EOLhyphen"/>bles us, brings our hearts home unto thee, and convinces us that we are but Men; that is to ſay, weak &amp; feeble creatures, blinded
+<pb n="15" facs="tcp:172064:26"/>by our paſſions, and ſubject to all ſorts of miſery.</p>
+               <p>Take away from me that inor<g ref="char:EOLhyphen"/>dinate love of my ſelf, and that original corruption, from whence ſprings all my Miſery; 'tis from this that inſtead of ſerving thee in Spirit and in Truth, inſtead of making thy Glory the end of all my thoughts, words and acti<g ref="char:EOLhyphen"/>ons, I perſue after nothing, but the gratification of my irregular Luſts.</p>
+               <p>Let me be never ſo raſh and ſo ungrateful unto thee, O my God, as to fancy my ſelf the Author of thoſe Reflections, which I ſom<g ref="char:EOLhyphen"/>times make, when I retire my ſelf from the hurry of this world, wherein an unquencheable appe<g ref="char:EOLhyphen"/>tite torments the moſt happy per<g ref="char:EOLhyphen"/>ſons, and renders them miſerable ſlaves, even by the accompliſh<g ref="char:EOLhyphen"/>ment of their moſt earneſt de<g ref="char:EOLhyphen"/>ſires.</p>
+            </div>
+            <div n="5" type="reflection">
+               <pb n="16" facs="tcp:172064:27"/>
+               <head>
+                  <hi>REFLECT. V.</hi> The Thoughts of a penitent Soul, fearful of being deceiv'd by the Appearance of a Falſe Conver<g ref="char:EOLhyphen"/>ſion.</head>
+               <p>WHat am I, my Lord and my God? what am I but a proud Atome, a poor, blind creature, who continually goes aſtray when thou withholdſt the Rays of thy Grace. I deſerve to be annihilated, if at any time I ſhould attempt the converſion of my ſelf, by my own power, with<g ref="char:EOLhyphen"/>out the aſſiſtance of thy Grace.</p>
+               <p>Mortifie in my ſoul all vain glory, every thing that tempts me to too good an opinion of my ſelf; but chiefly that frothineſs of humour which ſerves only to divert me from thy ways, to de<g ref="char:EOLhyphen"/>prive me of the benefit of my af<g ref="char:EOLhyphen"/>flictions,
+<pb n="17" facs="tcp:172064:27"/>and the ſweet comfort <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f thy Holy Spirit.</p>
+               <p>Give me humility and diſtruſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f my own reaſon? let me thirſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fter doing good more, and car<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al knowledge leſs; leſt valuing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more than thy grace, I loſe my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elf; and inſtead of becoming a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood Chriſtian, become a Phi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſopher; better acquainted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith the Maxims of <hi>Ariſtotle</hi> and <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſcartes,</hi> than the knowledge <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the Croſs.</p>
+               <p>O how vain and deceitful are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he thoughts of man, unleſs go<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ern'd by <hi>that Wiſdom which is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rom above,</hi> by that Wiſdom <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich is Fooliſhneſs to the World, becauſe it is unacquainted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith it; by that Wiſdom which <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>od has concealed from the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roud, and diſcovered to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umble;</hi> by that Wiſdom which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aughs at humane ſubtilty, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts only according to the grace
+<pb n="18" facs="tcp:172064:28"/>of Jeſus Chriſt, In ſhort, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that Wiſdom which is produc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by the Fear of God, and whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is the beginning and the end <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all true Wiſdom.</p>
+               <p>Permit me not, O my God, t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> flatter my ſelf, that I hate all ſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> becauſe I am perhaps reſtraine<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from Luxury and paſſion; Le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me not flatter my ſelf, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> am taken off from loving th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Creature, becauſe my diverſion<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are innocent.</p>
+               <p>Let me not flatter my ſelf, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I have mortified my paſſions; fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I find them revive with mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſtrength then ever, and encli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> me to ſelf-love; which is th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more dangerous, decauſe by j<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſtifying theſe irregular motion<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it renders me deaf to the dictate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of my reaſon, and the holy in ſpirations of thy grace.</p>
+               <p>Let me not fancy my ſelf to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> without pride, ambition, ſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-love,
+<pb n="19" facs="tcp:172064:28"/>becauſe I deſpiſe the World <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſcorn to owe thoſe Honours <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ortune has ſtripp'd me of, to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ything elſe but my ovvn deſerts.</p>
+               <p>Let me not ſo much deceive my <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lf, as to think I am throughly <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nverted, when indeed I have <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly chang'd the ſins of ſenſe, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r thoſe of the mind: A pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ane, proud, and fenſual Life, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which I was always tormented <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reflecting on my Crimes and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e remorſe of my Conſcience; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r a life in which my whole en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eavour is to gratifie ſelf love, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd enjoy the pleaſures of the World; and in the mean while, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe my precious time, forget my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od, hazard the ſalvation of my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oul, &amp; obtain nothing but the Mo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ality of a Heathen, which alone <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill not ſave me at the day of Judg<g ref="char:EOLhyphen"/>ment: O ſtate, truly deplorable, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the more ſo, becauſe I am <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot ſenſible of my condition, but
+<pb n="18" facs="tcp:172064:29"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:172064:28"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="28" facs="tcp:172064:30"/>reſt ſatisfied without endeavour<g ref="char:EOLhyphen"/>ing after any other Repentanc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or Converſion.</p>
+            </div>
+            <div n="6" type="reflection">
+               <head>
+                  <hi>REFLECT. VI.</hi> 
+                  <g ref="char:V">Ʋ</g>pon the Oppoſition of a Worldl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Life to the ſuffering Life o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jeſus Chriſt.</head>
+               <p>TEach me, O Lord, that thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſort of life is not the life of a Chriſtian, and that the end of Chriſt's Death and Incarna<g ref="char:EOLhyphen"/>tion was not to inſtate us in ſo delicate and effeminate a life, as might gratifie ſenſe and indulge the fleſh; and that all Moral Vertues are but dead Works, un<g ref="char:EOLhyphen"/>leſs enlivened by the Merits and Vertue of <hi>Jeſus Chriſt.</hi>
+               </p>
+               <p>That unleſs the inclinations of our hearts are changed, it will nothing avail a ſinner to reform
+<pb n="29" facs="tcp:172064:30"/>his outward converſation, to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate the World without love to God, to do works of Juſtice, without ſincere Repentance; and, as the Royal <hi>Pſalmist</hi> has it, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o ceaſe from evil without doing good.</hi>
+               </p>
+               <p>At the ſame time, O Lord, that thou deſtroyeſt my ſinful Habits, plant in my ſoul ſuch Graces, as may be fruitful to Good Works. Grant that by a lively Faith I may meditate on the My<g ref="char:EOLhyphen"/>ſteries of thy Life and Paſſion; That my ſoul may be deeply af<g ref="char:EOLhyphen"/>fected with them, and that it may be my greateſt pleaſure to con<g ref="char:EOLhyphen"/>template thoſe Sufferings which thou didſt willingly undergo for my ſake.</p>
+               <p>That beholding the Divine infant lying on the Straw, and in a Manger, the Treaſures of Heaven vailed in the Poverty of the Earth? I may contemn all
+<pb n="22" facs="tcp:172064:31"/>thoſe Riches which endure but for a moment, and endeavour to obtain thoſe incorruptible treaſures, which <hi>Moth and Ruct do not corrupt, which will never fly away.</hi>
+               </p>
+               <p>That the conſideration of that private life in which thou waſt pleaſed to diſguiſe thy ſelf from the eyes of the world, may create in me a deſire to be forgotten by it; that I may retire and employ my ſelf only in the great buſineſs of my ſalvation.</p>
+               <p>That rhe receiving of thy holy body and precious blood, thoſe ſacred pledges of thy love, which thou waſt pleas'd to leave us, when thou gaveſt thy life for our offences; may produce in me a holy horrour at the conſideration of the cauſe of thy Death, and a deteſtation of all ſin.</p>
+               <p>That I may rejoice and be ex<g ref="char:EOLhyphen"/>ceeding glad when I ſhall be
+<pb n="23" facs="tcp:172064:31"/>diſgrac'd and contemned, remem<g ref="char:EOLhyphen"/>bring my Saviour's humility, who was ſet at nought by <hi>Herod</hi> and the Court, where he never ap<g ref="char:EOLhyphen"/>pear'd but once, and then on pur<g ref="char:EOLhyphen"/>poſe to be deſpiſed.</p>
+               <p>That thoſe Scourges which rent thy Sacred Body, thoſe Thorns which pierced thy Pre<g ref="char:EOLhyphen"/>cious Head, may penetrate my callous heart, render me truly penitent, and willing, for the love of thee, to undergo all thoſe rigours of Mortification and Self-denial, which are requiſite for the ſubduing of our Luſts.</p>
+               <p>In fine, that the conſideration of thy ignominious death on the Croſs, on which thou perfecteſt the work of my ſalvation in grief and miſery, may be my only hope.</p>
+            </div>
+            <div n="7" type="reflection">
+               <pb n="24" facs="tcp:172064:32"/>
+               <head>
+                  <hi>REFLECT. VII.</hi> What the Hope of a Penitent Soul ought to be.</head>
+               <p>THis is the ſecond Favour I deſire of thee for the Me<g ref="char:EOLhyphen"/>rits of that precious Blood which trickled from thy Sacred Wounds, and which thou didſt offer to thy Eternal Father for the price of my Redemption.</p>
+               <p>That thou wouldſt be pleas'd to give me a true hope in thy Mercies: I ſay, Lord, a true hope, becauſe there is nothing more common, than to abuſe thy Mercy, by making it an incou<g ref="char:EOLhyphen"/>ragement to ſin more ſecurely; than for ſinners to hope in thy goodneſs, without ſo much as en<g ref="char:EOLhyphen"/>deavouring to repent: and to go on in their ſins with confidence of impunity, tho' hereby they
+<pb n="25" facs="tcp:172064:32"/>make God unjuſt, and rather the refuge and confident of their Crimes, than the true Protector of Innocence and Vertue.</p>
+               <p>Now whilſt thy Thunder has awakned me, and thy Rod cor<g ref="char:EOLhyphen"/>rected me.</p>
+               <p>Now whilſt I am ſenſible of the wickedneſs of my Life, the dangerous condition of my Soul, and am convinc'd that there is a Heaven, a Hell, and an Eter<g ref="char:EOLhyphen"/>nity.</p>
+               <p>Now whilſt I am ſenſible that thoſe things which hitherto in<g ref="char:EOLhyphen"/>chanted me, were but lying Va<g ref="char:EOLhyphen"/>nities, whilſt I am inflamed more than ever with an ardent deſire of being ſincerely converted unto thee. Teach me, O Lord, that as thou art a God full of Mercy and Compaſsion to thoſe ſinners who hope in thy Mercy, and re<g ref="char:EOLhyphen"/>turn unto thee with all their heart: ſo thou art a terrible God
+<pb n="26" facs="tcp:172064:33"/>to thoſe who preſume on it, only that they may multiply their of<g ref="char:EOLhyphen"/>fences, and after having taſted the ſweet comforts of the Holy Spirit, ſcorn and neglect it. For it is not, Lord, of thoſe miſerable wretches, that thou ſayeſt, <hi>to thoſe that knock it ſhall be opened?</hi>
+               </p>
+               <p>Is it not of theſe Miſcreants of whom thou haſt pronounc'd, <hi>that thou wilt withdraw the Bowels of thy Mercy?</hi>
+               </p>
+               <p>Is it not againſt theſe impious perſons thou haſt threatned, <hi>that thou wilt mock at their Calamity;</hi> and that inſtead of finding at their laſt hour the compaſsion of a tender Father, they ſhall experience the Juſtice and Ven<g ref="char:EOLhyphen"/>geance of an angry God?</p>
+            </div>
+            <div n="8" type="reflection">
+               <pb n="27" facs="tcp:172064:33"/>
+               <head>
+                  <hi>REFLECT. VIII.</hi> What Eeffect a true Repentance ought to have upon our Converſations and what kind of Guide ſhe ought to enquire after for the conduct of her Soul.</head>
+               <p>THat I may avoid all the flat<g ref="char:EOLhyphen"/>teries of Self-love, by which the Devil takes occaſion to rob me of thy grace; Grant, O my God, that inſtead of ſearching into my corruption for palliating Remedies to skin over my Sores, I may place my felf at the Tri<g ref="char:EOLhyphen"/>bunal of thy Juſtice, and there apply thoſe Cauſticks which are neceſſary to conſume Gangrene and Rottenneſs of my Soul.</p>
+               <p>That is to ſay, Lord, permit me not to be deceived, or rather let me not take pleaſure in de<g ref="char:EOLhyphen"/>ceiving my ſelf; in fancying that
+<pb n="20" facs="tcp:172064:34"/>I ſhall make amends for ſuch a Heatheniſh life as mine has been, ſuch criminal and ſcandalous paſ<g ref="char:EOLhyphen"/>ſions, whilſt I continue in the ſame ſinful Habits, the ſame Op<g ref="char:EOLhyphen"/>portunities, the ſame Pleaſures, and, perhaps, the ſame Crimes too.</p>
+               <p>Let me not add this to the heap of my ſins; to wit, the diſ<g ref="char:EOLhyphen"/>belief of thy Goſpel, the inter<g ref="char:EOLhyphen"/>preting it according to my fancy, or adapting it to countenance my Enormities.</p>
+               <p>Ah Lord! how do I diſhonour thee by my works, whilſt I praiſe thee with my mouth; whilſt I boaſt that I am a Chriſtian, I act con<g ref="char:EOLhyphen"/>trary to thy holy Law, and every day renounce thoſe Vows I made unto thee in my Baptiſm.</p>
+               <p>Ah Lord! who puniſheſt my ingratitude, by ſuffering me to fall from one Precipice to ano<g ref="char:EOLhyphen"/>ther, from a neglect of thy
+<pb n="21" facs="tcp:172064:34"/>Grace, to errour and hardneſs of heart. Permit me not to pitch upon a Mountebank, inſtead of an able Phyſician, who can apply proper Remedies to the invete<g ref="char:EOLhyphen"/>rate Maladies of my Soul; I would ſay, Lord, let me find a learned, prudent, and pious Guide, who can inform my Judgment, and underſtands when to Abſolve me; and not a blind or a deceitful Guide, who corrupts thy Holy Word, bends the Rule to my luſts, rather than conforms me to it, and endeavours more to pleaſe than ſave me; who, by a too ſpeedy adminiſtration of abſo<g ref="char:EOLhyphen"/>lution, lulls me into a falſe peace, becomes the partner of my ſin, the cauſe of my Damnation, and an inſtrument of the Devil, rather than the ſervant of Jeſus Chriſt. For, O Lord, in that day, when all the ſecrets of our hearts, and all the evaſions of ſelf-love ſhall
+<pb n="30" facs="tcp:172064:35"/>be laid open; thou wilt not then judge me by the Maxims of my ghoſtly Guide, but by thy holy Goſpel, and that light which thou haſt given me, which I have ſo often rejected, not willing to have the darkneſs of my mind diſpell'd by it.</p>
+               <p>Thou wilt judge me by thoſe truths, which notwithſtanding my corruptions have pierced to the bottom of my Soul, by that remorſe which thou didſt mingle with my moſt criminal pleaſures, thereby to recall my heart; but alas! I always ſtifled them, that I might the more freely abandon my ſelf to my paſſions; thoſe <hi>lying Vanities.</hi>
+               </p>
+               <p>And laſtly, O my God, 'tis by the Book of my own Conſcience, and not that of my ghoſtly Guide, by which thou (my Sove<g ref="char:EOLhyphen"/>reign Judge) wilt pronounce my Sentence, at that terrible
+<pb n="31" facs="tcp:172064:35"/>day, when thou wilt declare my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ternal Doom.</p>
+            </div>
+            <div n="9" type="reflection">
+               <head>
+                  <hi>REFLECT. IX.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he prays that out of his Mercy he would be pleas'd to direct her con<g ref="char:EOLhyphen"/>tinually in the ſtraight Way which leads unto him, and not permit her ro flatter her ſelf, that ſhe has repented, when ſhe is running on ſtill in the broad way.</head>
+               <p>AH, Lord, ſince I have no way left to appeaſe my Judge, and to avoid the Sentence of Death, but to juge my ſelf.</p>
+               <p>Grant that I may examin my ſelf before the Tribunal of thy Juſtice. Grant that by a ſincere repentance and a hearty ſorrow for my ſins, I may appeaſe thy Vengeance; and ſuffer me not ſo to deceive my ſelf in my
+<pb n="40" facs="tcp:172064:36"/>repentance, and thereby oblige thee to judge me a ſecond time, &amp; puniſh me in the day of thy fiery indignation.</p>
+               <p>O Lord, inflame my heart with that ſpark of thy grace, which remains in my ſoul; and which ſometimes makes it ſigh within it ſelf; change my plea<g ref="char:EOLhyphen"/>ſures into bitterneſs, my proſpe<g ref="char:EOLhyphen"/>rity into affliction, that I may thereby be aſſur'd, thou haſt chang'd thy hatred into love; and that I may not find in my ſin<g ref="char:EOLhyphen"/>ful eſtate, a more deadly tran<g ref="char:EOLhyphen"/>quillity, than in miſery it ſelf.</p>
+               <p>What can be more fatal to us, than to be deceiv'd in our Con<g ref="char:EOLhyphen"/>verſion, and in thoſe Maxims of corrupted Morality, which ruin more than Debauchery it ſelf.</p>
+               <p>For what more dangerous ſick<g ref="char:EOLhyphen"/>neſs can there be, than that which makes us refuſe all Reme<g ref="char:EOLhyphen"/>dies? In fine, what more de<g ref="char:EOLhyphen"/>ſtructive,
+<pb n="41" facs="tcp:172064:36"/>than a Reformation in appearance only; which entices us out of the ſtraight Way of Eternal Life, into the broad Rode of Sin? Lord, once again, I beſeech thee, <hi>chaſten me not in thy diſpleaſure,</hi> as thou doſt thoſe Reprobates, whom thou puniſheſt with proſperity, be<g ref="char:EOLhyphen"/>cauſe they would not partake of thy holy ſufferings.</p>
+               <p>Remember, O my God, that I am but duſt and aſhes, a fitter ob<g ref="char:EOLhyphen"/>ject of thy compaſſion, than thy fury.</p>
+               <p>Have mercy upon me; O Lord, have mercy upon me; let thy mercy be proportionate to the hainouſneſs of my offences, and thy infinite Loving-kindneſs, which has no other object, no other bounds, but thy mercy alone; In fine, give me a Pardon which may blot out all my offences, render me worthy of the mercy of God.</p>
+            </div>
+            <div n="10" type="reflection">
+               <pb n="34" facs="tcp:172064:37"/>
+               <head>
+                  <hi>REFLECT. X.</hi> Motives of Trust in God, and Di<g ref="char:EOLhyphen"/>ſtrust of our ſelves. Jeſus Christ alone can confirm our Faith and ſtrengthen our Hope.</head>
+               <p>COrrect me, O Lord, but in mercy; conſidering my frailty and the byas of my cor<g ref="char:EOLhyphen"/>rupt nature, which inclines me unto ſin, and rivets my af<g ref="char:EOLhyphen"/>fections to the things of this World.</p>
+               <p>Have compaſſion on my indi<g ref="char:EOLhyphen"/>gence and inconſtancy, which divert me from any thing that is good, and maugre the light of Faith, render tll my good Works abortive. O God, who loveſt us more than we can love our ſelves, and who out of thy infi<g ref="char:EOLhyphen"/>nite goodneſs, haſt reſcued me from a falſe hope, by which I
+<pb n="35" facs="tcp:172064:37"/>ſhould have been flattered into final impenitence, and thus haſt ſav'd me contrary to my own in<g ref="char:EOLhyphen"/>clination; Give me a ſolid hope in thy Divine Merits, let me con<g ref="char:EOLhyphen"/>ſider them as the only Object of my Truſt, and principally when the Devil tempts me to diſpair and employs all his artifices, by the interpoſition of my ſins and frailties, to eclipſe the contem<g ref="char:EOLhyphen"/>plation of thy Merits.</p>
+               <p>In this day of my affliction and diſtreſs (O my God) fix my eyes upon my bleſſed Saviour, dying on the Croſs for my ſins, and miſerably torn by thoſe <hi>furrows which the Scourges made upon his back.</hi> Let me conſider, that thou didſt endure all this to obtain pardon for my ſins, and to encourage me to the taking up of thy Croſs, upon which depends all my hopes of Salva<g ref="char:EOLhyphen"/>tion. Let me contemplate in
+<pb n="36" facs="tcp:172064:38"/>thy Sacred Wounds, the right I a notorious ſinner have, to hope in thy Mercies: Let the hope of a bleſſed Eternity, and the im<g ref="char:EOLhyphen"/>mutability of thy Promiſes, take off my Meditations from the vain and fleeting Enjoyments of this World, which hinder my Soul from aſpiring to Eternal Feli<g ref="char:EOLhyphen"/>city.</p>
+               <p>For thou knoweſt, O Lord, how little ſtability there is in my beſt Deſires, and how ſpeedily the impreſſions of thy Grace on my heart are defac'd by the vain <hi>Idea's</hi> of worldly pleaſure.</p>
+               <p>How the hopes of ſome trifle, ſome vain luſt puffs up my Soul; how the Honours and Applauſe of this World makes me giddy and drunk with the fumes of Vain<g ref="char:EOLhyphen"/>glory.</p>
+               <p>In fine, Lord, thou knoweſt much better than I my ſelf, how pliable I am to receive any im<g ref="char:EOLhyphen"/>preſſion
+<pb n="37" facs="tcp:172064:38"/>of evil, how averſe to any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing which is good, and how un<g ref="char:EOLhyphen"/>ſtable in the ways of thy Com<g ref="char:EOLhyphen"/>mandments.</p>
+               <p>This is the reaſon, O Lord, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat I put no confidence in my ſelf; that my heart converts it ſelf to thee in all its wants and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the day of adverſity. To thee, O Lord, who enlighteneſt the darkeſt receſſes of my mind, who poſſeſſeſt me with patience under the ſevereſt afflictions, and art the Anchor of my Soul.</p>
+               <p>Here is, Lord, my Merit, my Riches, and my Refuge, when the conſideration of my wicked life terrifies me.</p>
+               <p>Here is, Lord, my comfort in this <hi>vale of Tears and Spiritual Warfare,</hi> wherein my Soul is made the Scene of all ſorts of paſſions.</p>
+               <p>In fine, This makes me hope more than fear; and rely on thy
+<pb n="38" facs="tcp:172064:39"/>Mercies, rather than dread of thy Juſtice,</p>
+               <p>Ah, Lord, ſince I know by ex<g ref="char:EOLhyphen"/>perience, that thou art a ſure Help to thoſe that truſt in thee, Teach me to relie upon thee in my greateſt Extremities, to re<g ref="char:EOLhyphen"/>joyce in thy Chaſtiſements, and to look upon them as marks of thy favour; Aſſiſt me patiently to undergo them, and aſſure me that thou wilt lay upon me no more than I am able to bear; but wilt take thy Rod from me. when it ſhall be conveucent for the health of my Soul.</p>
+               <p>Let me be fully aſſur'd that thy Grace will, in thy good time, remove all Obſtacles, which obſtruct my Salvation, that my Sufferings, and the malice of my Enemies will have an end, but that <hi>thy Mercies en<g ref="char:EOLhyphen"/>dure for ever;</hi> that after <hi>I have fought the good fight here on</hi>
+                  <pb n="39" facs="tcp:172064:39"/>Earth, I ſhall receive <hi>a Crown of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lory in Heaven:</hi> for thou ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt the Rays of thy Grace to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hine upon the juſt and the un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt, which at the ſame time <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elt down the humbe Soul into <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſincere repentance, and harden <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he habitual and obdurate ſin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er; to the end that the one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hould not be tempted to Pre<g ref="char:EOLhyphen"/>ſume, or the other to Diſpair, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut all remain in a continual de<g ref="char:EOLhyphen"/>pendence upon thy Grace.</p>
+               <p>Let me not then, O my God, be in the number of thoſe, who will be aſtoniſhed and confounded at the Great Day, becauſe they have rejected thy Grace; for I caſt my ſelf wholly upon thy Mercy, which is infinite, and knows no bounds, without any reſerve or confidence in my own merits.</p>
+               <p>But, O Lord, becauſe Faith and Hope and all other Vertues
+<pb n="32" facs="tcp:172064:40"/>will avail me nothing, without Charity; becauſe, tho' I could remove Mountains, and work all ſorts of Miracles, yet my works would be dead and ſinful, unleſs ſeaſon'd by thy Love.</p>
+               <p>Give me therefore in the third place that Charity which is the Crown of all other Vertues, and the Soul of our Good Works. I would ſay, Lord, Give me a fer<g ref="char:EOLhyphen"/>vent and a faithful Love to thee, whereby I ſhall eaſily overcome all ſeeming impoſſibilities, and ſa<g ref="char:EOLhyphen"/>tisfie the thirſt of my panting Soul, after a ſincere Converſion unto thee.</p>
+            </div>
+            <div n="11" type="reflection">
+               <pb n="33" facs="tcp:172064:40"/>
+               <head>
+                  <hi>REFLECT. XI.</hi> She Prays to God for a New Heart inflam'd with his Love.</head>
+               <p>FOr a Foundation of that Mi<g ref="char:EOLhyphen"/>raculous Work (which one very truly calls the chiefeſt Work of thy Grace) Create in me, O my God, a <hi>New Heart;</hi> a humble yet an reſolute, ſteady and coura<g ref="char:EOLhyphen"/>gious heart, eſtranged from the World and its Vanities, and in ſhort, a true Chriſtian heart; which may poſſeſs me with the love of thee, enable me to ex<g ref="char:EOLhyphen"/>poſe my Life and Fortunes for the Confeſſion of thy Name, and render me Obedient to the Fooliſhneſs of the Croſs, in the midſt of a crooked and perverſe Generation, amongſt whom it is eſteem'd a ſcandal to be Reli<g ref="char:EOLhyphen"/>gious.</p>
+               <pb n="42" facs="tcp:172064:41"/>
+               <p>A heart which will love thee in the midſt of the ſevereſt Tryals, reſiſting the Concupi<g ref="char:EOLhyphen"/>ſcence of the Fleſh, mortifying its corrupt Appetites, and irre<g ref="char:EOLhyphen"/>gular Deſires.</p>
+               <p>A heart which will love thee, when I am call'd upon to evi<g ref="char:EOLhyphen"/>dence that love, by loving my Enemies, and returning them <hi>Good for Evil.</hi>
+               </p>
+               <p>A heart which for the love of thee, will deny it ſelf when there is any competition between the Creature, and the Creatour; which will ſilence all the impor<g ref="char:EOLhyphen"/>tunities of Nature, that it may become more obedient to the voice of thy Grace.</p>
+               <p>A heart which will love thee, when it muſt ſuffer for it; and will be content I ſhould ſacrifice my reputation and honour to thy Glory, in imitation of thy humble Life and opprobrious Death upon the Croſs.</p>
+               <pb n="43" facs="tcp:172064:41"/>
+               <p>A heart which for the love of thee, will relinquiſh the favour of the Court, prefer thy Service, before the Splendour of my Fa<g ref="char:EOLhyphen"/>mily, or whatſoever is moſt dear to me; demonſtrating here<g ref="char:EOLhyphen"/>by, that my love to thee ſurpaſſes that of the World.</p>
+               <p>Laſtly, Grant, O my God, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may love thee not only for thy benefits, when thou bleſſeſt me with proſperity and the abun<g ref="char:EOLhyphen"/>dance of good things in this World; but alſo when I am in diſgrace, poverty, or any other Affliction: Learn me then to ſubmit to the diſpenſations of thy Providence, and become more conformable to thy Divine Will.</p>
+               <p>For, O Lord, what teſtimo<g ref="char:EOLhyphen"/>nies can I give thee of my love, which will in the leaſt anſwer thy love to me; nay, which are not infinitely ſurpaſs'd by
+<pb n="44" facs="tcp:172064:42"/>thoſe favours thou haſt been pleaſed to confer upon me.</p>
+            </div>
+            <div n="12" type="reflection">
+               <head>
+                  <hi>REFLECT. XII.</hi> If the Soul finds any thing in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> World to ſettle its Affection<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon: How much the more ear<g ref="char:EOLhyphen"/>neſtly ought it to fix them up<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> God after its Converſion.</head>
+               <p>LEt me <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot, O my God, ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>leſs Zeal, Gratitude a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Fidelity towards thee, than <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould have towards a Friend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who had offer'd to lay down h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> life for the preſervation of mine and to this ſuperlative teſtimon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of his love did continually add<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thouſand other benefits.</p>
+               <p>Since thou haſt been pleas'd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> humble thy ſelf, O my God, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> making me offers of thy Gra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Favour, and loading <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="45" facs="tcp:172064:42"/>with thy Benefits; let me not forget thee, doubt of thy Mer<g ref="char:EOLhyphen"/>cy, or wilfully ſhut my eyes, and neglect to pay thee thoſe acknowledgments of thy love and bounty, which in ſtrict Juſtice is but <hi>my reaſonable ſervice.</hi>
+               </p>
+               <p>For is it juſt, that I who pre<g ref="char:EOLhyphen"/>tend to act upon Principles of Generoſity, who boaſt of my good Nature, Affection, Inte<g ref="char:EOLhyphen"/>grity and Gratitude towards my Friends, ſhould be defective only in my Duty towards God? living without Faith, without Love, or ſo much as the Acknowledgment of his Benefits. Is it juſt, that I (a poor miſerable creature, who owe all that I have unto my glorious Creatour) ſhould offer up to him only faint acknow<g ref="char:EOLhyphen"/>legdments, fickle deſires, and in truth the leaſt part of my ſelf?</p>
+               <p>Is it juſt, that I who have been
+<pb n="46" facs="tcp:172064:43"/>ſo induſtrious to gratifie my Idol-paſſions, who never forgot any thing which might conduce to their ſatisfaction, ſhould com<g ref="char:EOLhyphen"/>plain of the difficulty and im<g ref="char:EOLhyphen"/>poſſibility of placing them upon their due object, and devoting my heart to the love of thee?</p>
+               <p>Laſtly, Is it poſſible, that the ſoul which thou didſt create to be the Temple of thy Divine Love, ſhould not be perſwaded to return unto thee, the center of its happineſs, after it has wandred a thouſand and a thou<g ref="char:EOLhyphen"/>ſand times from the way of thy Commandments, unleſs thou art pleas'd to prepare its paths, and draw it to thy ſelf with the cords of thy Grace? No, Lord<g ref="char:punc">▪</g> this is not reaſonable: and there<g ref="char:EOLhyphen"/>fore (maugre all the oppoſition I find in my corrupt nature in ſub<g ref="char:EOLhyphen"/>mitting my ſelf to the eaſie yoak of thy Commandments)
+<pb n="47" facs="tcp:172064:43"/>thy love which predominates in my Soul above the love of the world, the creature, or my ſelf, ſhall unite me inſeparably unto thee by the inexhauſtible love of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſus Chriſt.</p>
+               <p>By that love, which has taught me by experience, that there is nothing in this World worthy my friendſhip, nothing but con<g ref="char:EOLhyphen"/>tinual troubles, and baſe ingra<g ref="char:EOLhyphen"/>titude; which has diſcover'd to me by theſe gentle Corrections, that thou art a jealous God, and requireſt the ſacrifice of my whole heart unto thee, in ac<g ref="char:EOLhyphen"/>knowledgment of thy infinite Mercies, my Infidelity, and the ſacrilegious miſplacing of my Af<g ref="char:EOLhyphen"/>fections.</p>
+               <p>Ah Lord, ſince thou requireſt nothing to prepare me for the pardon of my ſins, but the cul<g ref="char:EOLhyphen"/>tivating of my love and the con<g ref="char:EOLhyphen"/>verſion of my heart unto thee;
+<pb n="48" facs="tcp:172064:44"/>Behold here is a heart ready to receive thy Commands, ready to obey thee, which is, truly to love thee; ready to under<g ref="char:EOLhyphen"/>go any thing, which condu<g ref="char:EOLhyphen"/>ces to the advancement of thy Glory, or the ſalvation of my Soul.</p>
+            </div>
+            <div n="13" type="reflection">
+               <head>
+                  <hi>REFLECT. XIII</hi> That a Penitent Soul ſhould not examine what Sins are Dam<g ref="char:EOLhyphen"/>nable and what not, but avoid all appearance of Evil, every thing which may diſpleaſe God; lest indulging it ſelf in leſſer crimes, it relapſe at last into Habitual Debauchery.</head>
+               <p>IF it is thy pleaſure to make my Repentance in ſome meaſure anſwer my Crimes, to prolong my life, ond puniſh me in the
+<pb n="49" facs="tcp:172064:44"/>ſame place where my Offences were commited; If it is thy pleaſure to make my Sins my pu<g ref="char:EOLhyphen"/>niſhment, and thoſe Luſts which I have hitherto idoliz'd the Exe<g ref="char:EOLhyphen"/>cutioners of thy Juſtice; <hi>my heart is fixed, O God, my heart is fixed:</hi> Nevertheleſs, Grant that I may be preſerv'd in my Integri<g ref="char:EOLhyphen"/>ty thereby, that my preſent A<g ref="char:EOLhyphen"/>verſion to ſinful Pleaſures may be an Antidote ſufficient to de<g ref="char:EOLhyphen"/>fend me from the infected breath of popular Applauſe: that my Repentaance may be more plea<g ref="char:EOLhyphen"/>ſing to thee, and profitable to my ſelf.</p>
+               <p>But, O Lord, let me not only be preſerved from thoſe Noto<g ref="char:EOLhyphen"/>rious Crimes which this day ren<g ref="char:EOLhyphen"/>der me the Object of thy Mercy; but grant alſo, that I may hate Sin more for the Malignity of its Nature, than from the Dread of thy Vengeance; let my Averſion
+<pb n="50" facs="tcp:172064:45"/>to it, proceed rather from thy love, than any reſpect to my ſelf; that is, let me abhor it more for diſpleaſing thee, than becauſe it would be my ruin.</p>
+               <p>Let me not with the greateſt part of the World, nicely weigh how much Carnal Liberty I may take, and yet continue in a ſtate of ſalvation; but let me avoid every thing which diſpleaſes thee, as well as thoſe groſſer acts of ſin, which will certainly damn my ſoul.</p>
+               <p>For what is more impious, O my God, than to ſay, I know that this Action will diſpleaſe thee, that this Temptation is alluring, that theſe Pleaſures ob<g ref="char:EOLhyphen"/>ſtruct the Emanations of thy Grace; and in ſhort, that the Vanities of this World are at <hi>enmity to the life of Godlineſs;</hi> and yet I am reſolv'd to venter on them, to diſregard the all-ſeeing
+<pb n="51" facs="tcp:172064:45"/>Eye of a jealous God, the Remorſe of my own Con<g ref="char:EOLhyphen"/>ſcience: and all this becauſe I am aſſured, that God is a mer<g ref="char:EOLhyphen"/>ciful God, that he loves me, and is willing to paſs by my Of<g ref="char:EOLhyphen"/>fences.</p>
+               <p>For is not this Way of Reaſon<g ref="char:EOLhyphen"/>ing us'd by the greateſt part of thoſe ſervile Souls, whoſe Reli<g ref="char:EOLhyphen"/>gious Actions proceed more from fear of the Devil, than out of love to God?</p>
+               <p>May not this Neglect of thy Grace, (which theſe Men eſteem ſo ſmall an Offence) grieve thy Holy Spirit, and become the Occaſion of their Eternal Re<g ref="char:EOLhyphen"/>probation?</p>
+               <p>For the Devil, by tempting us at firſt to ſmaller Crimes, inſi<g ref="char:EOLhyphen"/>nuates himſelf into our Affe<g ref="char:EOLhyphen"/>ctions, and by degrees renders the moſt deteſtable ſins familiar; this he knows is the ſureſt way
+<pb n="52" facs="tcp:172064:46"/>to deſtroy us, for by little and little it weakens the love and fear of God in our Souls, it gives him poſſeſſion of our hearts, and at laſt <hi>delivers them up unto him for a prey.</hi>
+               </p>
+               <p>For who knows, but this va<g ref="char:EOLhyphen"/>riety of company, this vain and frothy converſation which fills my heart with frivolous Deſires, and weakens the Influences of thy Grace, may in the end ſeduce me from the ſimplicity of thy Word, and the obſervation of thy Holy Law?</p>
+               <p>Who knows but thou mayeſt leave me to my ſelf, when thou perceiveſt that my Diſobedience and Ingratitude towards thee, proceeds from the abuſe of thy Grace?</p>
+               <p>In fine, Who knows but the Splendour of Worldly Pomp, which is continually before my eyes; which I behold with ſo
+<pb n="53" facs="tcp:172064:46"/>much complacency, and thoſe Maxims of Carnal policy which are perpetually ſounding in my ears; may at laſt render me for<g ref="char:EOLhyphen"/>getful of thoſe Solemn Proteſta<g ref="char:EOLhyphen"/>tions, which but a few days ago, I made unto thee; when with Tears and Sighs, I ſo earneſtly beſought thee, to <hi>have Mercy on me, and to deliver me from the jaws of Death.</hi>
+               </p>
+            </div>
+            <div n="14" type="reflection">
+               <pb n="54" facs="tcp:172064:47"/>
+               <head>
+                  <hi>REFLECT. XIV.</hi> She prays unto God inſtantly, that he would be pleas'd to knock off thoſe Chains which unite her Affections to the Creature; to grant her freſh Recruits of his Mercy, and Grace to make the right uſe of them.</head>
+               <p>AH Lord, who art terrible only to ſtubborn and impe<g ref="char:EOLhyphen"/>nitent Offenders, let not my In<g ref="char:EOLhyphen"/>gratitude divert the benign de<g ref="char:EOLhyphen"/>ſigns of thy Mercy unto my Soul; let not that ſickneſs (by which thou didſt intend to awaken me and bring me nearer to thy ſelf) harden my heart, and <hi>fill up the meaſure of my ſins.</hi>
+               </p>
+               <p>Let not the return of my Life and Health bring along with it thoſe Vicious Habits and that Inordinate Love of the Pomps
+<pb n="55" facs="tcp:172064:47"/>and Vanities of the World, which I ſo paſſionately renounc'd when the Terrors of Death were upon me, when the Sight of my Sins and the Torments of Hell made all my Joints tremble, <hi>and my Knees ſmite together.</hi>
+               </p>
+               <p>Deliver me alſo, from my ſelf, O my God, from that natural inclination of my Will to all that is Evil, and that averſion to Good, which from time to time prevails with me to put off my Repentance.</p>
+               <p>
+                  <hi>Make thy Arm bear</hi> and break aſunder thoſe Bonds which unite my Affections too cloſe to the Creature, and engage me too earneſtly in the love of my ſelf.</p>
+               <p>Hear me when I cry unto thee for freſh ſupplys of thy Mercy, and <hi>redeem me from the vain con<g ref="char:EOLhyphen"/>verſation of the World.</hi>
+               </p>
+               <pb n="56" facs="tcp:172064:48"/>
+               <p>But above all let that Grace, that Love, that Bounty, (with which I am almoſt overwhelmed) kindly operate upon my Soul; and after they have made me ſen<g ref="char:EOLhyphen"/>ſible, how much a ſtranger my heart is to thoſe Reſolutions, which the Terror of thy ap<g ref="char:EOLhyphen"/>proaching Judgments extorted from me; then let them accompliſh thoſe Gracious Purpoſes, for which they were ſent by thy In<g ref="char:EOLhyphen"/>dulgent Providence.</p>
+               <p>Laſtly, Let not the hard<g ref="char:EOLhyphen"/>neſs of my heart conſtrain thy Mercy to give place to Juſtice, let it not render thy Fatherly Corrections ineffectual, or pro<g ref="char:EOLhyphen"/>voke thee to leave me to my ſelf, and give me up to my Unmortifi'd Affections: Grant me (with Tears I beſeech thee) Grant me <hi>thy Love;</hi> for without it I have no Strength, no Merit, and by its aſſiſtance I ſhall be able to ſur<g ref="char:EOLhyphen"/>mount
+<pb n="57" facs="tcp:172064:48"/>all the Difficulties which obſtruct my Converſion, and to <hi>perſevere to the end in the Way of thy Commandments.</hi>
+               </p>
+            </div>
+            <div n="15" type="reflection">
+               <head>
+                  <hi>REFLECT. XV.</hi> What kind of Life that Perſon ought to lead who is under a Ne<g ref="char:EOLhyphen"/>ceſſity, of Converſing much in the World; that 'tis her Duty to reſist whatſoever is contrary to the Commands of Jeſus Chriſt.</head>
+               <p>ENlighten the Faculties of my Soul, O my God with that Divine Love, which will ſhew me the vanity of theſe tranſient Enjoyments, and enable me pati<g ref="char:EOLhyphen"/>tenly to bear my DISGRACEFUL BANISHMENT.</p>
+               <p>Imprint in my Mind ſuch lively <hi>Idaea's</hi> of thy Mercy, and ſuch grateful Reſentments of thy Be<g ref="char:EOLhyphen"/>nefits,
+<pb n="58" facs="tcp:172064:49"/>as may be always before my eyes, and produce a real change in my heart; a ſure ſign of my amendment by thy health<g ref="char:EOLhyphen"/>ful Corrections: Let a Good Life be the effect of my earneſt deſires to give my ſelf up to thee, let me chuſe to die a thouſand times rather than offend thee; and let me be found, at thy coming, amongſt thoſe Wiſe Virgins who have <hi>trimm'd their Lamps with Good Works.</hi>
+               </p>
+               <p>And tho' for the moſt part thoſe perſons who would paſs from one Extream to another in a Moment, from the moſt dege<g ref="char:EOLhyphen"/>nerate Debauchery, to the high<g ref="char:EOLhyphen"/>eſt Pitch of Devotion, are un<g ref="char:EOLhyphen"/>ſucceſsful in their endeavours, and finiſh nothing, becauſe they undertake too much; yet I can<g ref="char:EOLhyphen"/>not give bounds to my deſires, I cannot but wiſh to love thee as much as I am able: 'tis this which
+<pb n="59" facs="tcp:172064:49"/>above all things I thirſt after; and to this end, I beſeech thee, Enliven my Impotent Endeavours with thy Grace.</p>
+               <p>I will not defer my Repen<g ref="char:EOLhyphen"/>tance, O my God, until the <hi>Night of thy Juſtice overtakes me, when no man can work; but I will be up and be doing, as ſoon as ever the day of thy Grace ſprings from on high, and en<g ref="char:EOLhyphen"/>deavour to work out my Salva<g ref="char:EOLhyphen"/>tion:</hi> I will not ask councel of my Luſts, or deliberate with my ſelf, whether 'tis time to forſake my vicious converſation, and be<g ref="char:EOLhyphen"/>come a new creature: Nor am I ſo vain as to think my ſelf ca<g ref="char:EOLhyphen"/>pable of great matters; For I am conſcious of my own Wants, my Sluggiſhneſs, and my incon<g ref="char:EOLhyphen"/>ſtancy, and therefore with eyes lift up to Heaven, I patiently ex<g ref="char:EOLhyphen"/>pect the dawning of thy love, and the gentle influences of thy Grace upon my ſoul.</p>
+               <pb n="60" facs="tcp:172064:50"/>
+               <p>I will begin to magnifie thy Mercies amongſt thoſe who main<g ref="char:EOLhyphen"/>tain a continual Trafick of Sin and Vanity, with whom my Diſcourſe us'd to be about Riches, Honours, Pleaſures, and Proſpe<g ref="char:EOLhyphen"/>rity.</p>
+               <p>I will declare to thoſe perſons who worſhip nothing but their. Intereſt, that thou art my God, the only Object of my Adora<g ref="char:EOLhyphen"/>tion; that in the enjoyment of thy Favour, conſiſts all my Riches, my Grandeur, and my Happineſs; that all I have is in thy hands, and that when thou haſt conſum<g ref="char:EOLhyphen"/>mated the Great Work of my Converſion, I ſhall be more hap<g ref="char:EOLhyphen"/>py, than if I had Conquer'd all the Kingdoms of the World.</p>
+               <p>I will forſake that frothy and effeminate Company with whom I have loſt ſo much precious time; which I will endeavour to redeem by convincing them, that
+<pb n="61" facs="tcp:172064:50"/>the unprofitable, vain and idle courſe of life which they look upon as their Priviledge, will deſtroy the health of their Ever<g ref="char:EOLhyphen"/>laſting Souls.</p>
+               <p>If I cannot attain to be Emi<g ref="char:EOLhyphen"/>nently Religious, I will endea<g ref="char:EOLhyphen"/>vour to be as good as I can; if I cannot produce the teſtmonies of an ardent Affection, I will de<g ref="char:EOLhyphen"/>dicate to thee my Infant Love; if my Faith is not ſo Active as that of the humble <hi>Centurian,</hi> (which inclined thee to give a preſent return unto his Prayers) yet I will take advice of thy Mi<g ref="char:EOLhyphen"/>niſters, and with united Prayers, Implore the Augmentation of it.</p>
+               <p>That I may live up to thoſe Religious Principles, which thou haſt planted in my Soul, I will dread the Company of thoſe de<g ref="char:EOLhyphen"/>bauch'd Wretches, who glory in their Wickedneſs, and (as the
+<pb n="62" facs="tcp:172064:51"/>Holy Scripture ſpeaks) <hi>have not God in all their thoughts.</hi>
+               </p>
+               <p>Yea, Lord, I will break off all engagements with thoſe profeſs'd Libertines, whoſe ſociety inſtilis Irreligion into our Minds, and is a blemiſh to the moſt unſpotted Reputation; who puff us up with ſuch an opinion of our ſelves, as juſtly merits the deſertion of thy grace; and guild over their Mon<g ref="char:EOLhyphen"/>ſtrous Vices with the ſpecious Names of good Nature and Ho<g ref="char:EOLhyphen"/>nour: Tho' their Perſons and Hu<g ref="char:EOLhyphen"/>mour may be agreeable to me, yet I am reſolv'd faithfully to perform theſe Vows which I have made unto thee, O my God; and that hence<g ref="char:EOLhyphen"/>forwards I will not maintain any ſtrict Correſpondence, Familia<g ref="char:EOLhyphen"/>rity or Friendſhip with them. For certainly the hating of thoſe who hate thee, is but a ſmall acknow<g ref="char:EOLhyphen"/>ledgment of thy infinite love.</p>
+            </div>
+            <div n="16" type="reflection">
+               <pb n="63" facs="tcp:172064:51"/>
+               <head>
+                  <hi>REFLECT. XVI.</hi> That ſhe ſhould aſſociate her ſelf with thoſe perſons who truly fear God, and that ſhe ought not to entangle her ſelf again in thoſe things which the World calls State, Riches, Fortune, and Gran<g ref="char:EOLhyphen"/>deur.</head>
+               <p>O Lord, in <hi>whoſe hands are the hearts of men, and who turnest them whether ſoever thou pleaſest;</hi> change the inclina<g ref="char:EOLhyphen"/>tions of my Soul, and ſanctifie my Love, that in the choice of my Friends, I may regard more thy Grace, than any Natural Endowments; rather the edi<g ref="char:EOLhyphen"/>fying of my ſelf, and the ſeaſon<g ref="char:EOLhyphen"/>ing my heart with thy holy Truths, than my own Diver<g ref="char:EOLhyphen"/>ſion.</p>
+               <pb n="64" facs="tcp:172064:52"/>
+               <p>For thou knoweſt, Lord, how inſenſibly thoſe things which I frequently behold, make impreſ<g ref="char:EOLhyphen"/>ſions upon my mind; how con<g ref="char:EOLhyphen"/>formable I am to the company with which I converſe; and how wonderfully good or bad Ex<g ref="char:EOLhyphen"/>amples influence my Life and Converſation.</p>
+               <p>Grant therefore, O my Lord and my God, that I may take de<g ref="char:EOLhyphen"/>light in the Company of Ver<g ref="char:EOLhyphen"/>tuous and Religious Men; that inſtead of talking about the World and it vanities my di<g ref="char:EOLhyphen"/>ſcourſe may be concerning Eter<g ref="char:EOLhyphen"/>nity, thy Grace, thy Greatneſs, and thoſe infinite Mercies which thou haſt been pleaſed to beſtow upon my Soul; and if thoſe im<g ref="char:EOLhyphen"/>preſſions which ſin has left upon my mind, ſhould for the preſent render me averſe to theſe inno<g ref="char:EOLhyphen"/>cent pleaſures; if the taint of my corrupt Nature ſhould diſ<g ref="char:EOLhyphen"/>reliſh
+<pb n="65" facs="tcp:172064:52"/>theſe Diverſions which yield more ſolid ſatisfaction, than the moſt ſenſual enjoyments of this World; then I beſeech thee, to enlighten my Under<g ref="char:EOLhyphen"/>ſtanding with thy Grace and ſtrengthen my Faith, to with<g ref="char:EOLhyphen"/>hold me from, gratifying my in<g ref="char:EOLhyphen"/>ordinate Appetites, to work in me a repentance for thoſe ſins which render me incapable of the ſweet Comforts of thy <hi>Holy Spirit.</hi>
+               </p>
+               <p>For, O Lord, if thou doſt not expect that I ſhould exerciſe much Rigour on my Body, 'tis becauſe I ſhould be more fervent in Spirit, and mortifie my cor<g ref="char:EOLhyphen"/>rupt Appetites the more? for a deep ſenſe of thy Death and Suf<g ref="char:EOLhyphen"/>ferings, is abſolutely neceſſary to reſtore the health of my Soul.</p>
+               <p>Now ſeeing the beſt way to rectifie my warp'd deſires, is to bend them towards the contrary
+<pb n="66" facs="tcp:172064:53"/>extream, Grant that the by as of my corrupt Nature may never p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evail on me, to beſtow ſo much as one favourable look on my divorced Luſts; for 'tis but reaſonable that I ſhould puniſh my ſelf for my too earneſt purſuits of ſenſual pleaſure, by mortify<g ref="char:EOLhyphen"/>ing thoſe Irregular Appetites, and denying my ſelf even Lawful Diverſions; it is but juſt, that I who have trifled away ſo much time on the Stage of the World ſhould retire my ſelf from thoſe pleaſures, which are the fewel o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my inordinate luſts; and den<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my ſelf, the World and all its pleaſures, that I may be truly the Diſciple of the <hi>Lord Jeſus.</hi>
+               </p>
+               <p>Let the certain aſſurance of a future Life, O my God, demon<g ref="char:EOLhyphen"/>ſtrate to me the Frailty and Va<g ref="char:EOLhyphen"/>nity of thoſe things which we call State, Wealth, Fortune, and Grandeur; Let me not (with
+<pb n="67" facs="tcp:172064:53"/>the greateſt part of the World) engage all the force of my Affe<g ref="char:EOLhyphen"/>ctions in the purſuit of them; as if there were no future Life, Happineſs, or Eternity: Let me eſteem them according to their true value; but let me place my Affections only upon that ſolid good, where true Joys are to be found. For how can any real Contentment proceed from ſuch empty Trifles? How can any laſt<g ref="char:EOLhyphen"/>ing ſatisfaction be built upon ſuch fading Enjoyments? which make themſelves wings and fly away, when we think we have the ſureſt poſſeſſion of them.</p>
+               <p>Laſtly, Let me contemplate thy Works in the Government of the World; in which (as in the Scene of a Comedy) Provi<g ref="char:EOLhyphen"/>dence orders the Perſons, diſpo<g ref="char:EOLhyphen"/>ſes the Riches and Honours, and lulls aſleep the generality of Mankind; who being rouz'd up
+<pb n="68" facs="tcp:172064:54"/>at the end of the Act, ſtand amaz'd, that they have been all the while in a Dream, that the gaudy Apparitions are vaniſh'd, and nothing left but duſt and ſmoak. Yea, Lord, I confeſs that after I have throughly ranſack'd all the ſtores of ſenſual Enjoy<g ref="char:EOLhyphen"/>ments, I cannot find any real ſa<g ref="char:EOLhyphen"/>tisfaction or laſting pleaſure; but only in thy Love and thy Service.</p>
+            </div>
+            <div n="17" type="reflection">
+               <pb n="69" facs="tcp:172064:54"/>
+               <head>
+                  <hi>REFLECT. XVII.</hi> That Charity towards our Neigh<g ref="char:EOLhyphen"/>bour obliges us carefully to avoid not only every Action which may be injurious to his Life, Goods, and Reputation; but alſo de<g ref="char:EOLhyphen"/>tracting Speeches, and fooliſh jeſting.</head>
+               <p>O That my Soul might be in<g ref="char:EOLhyphen"/>ſpir'd with thy Love, O my God; that it might be my only Treaſure, my Glory, and my Delight; that thoſe chaſte and Divine Pleaſures which flow from it, might enlighten my Un<g ref="char:EOLhyphen"/>derſtanding and allure my Will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o cleave unto thee; that it might work in me a hearty ſor<g ref="char:EOLhyphen"/>row for my paſt Offences, and a holy fear of thy Divine Majeſty; that it might take poſſeſſion of my Soul, and not endure the
+<pb n="70" facs="tcp:172064:55"/>moſt darling luſt to lurk therein. O that my love to my Neigh<g ref="char:EOLhyphen"/>hour might in ſome meaſure an<g ref="char:EOLhyphen"/>ſwer thy love to me, that I might love his Soul above my own Life, and never be prevaild upon, for the gain of the whole World, to wound my Conſcience, by injuring him either in eſtate, or good name.</p>
+               <p>But ſince generally nothing is eſteem'd a breach of Charity towards our Neighbour, but ſuch open Violence, or abuſive Lan<g ref="char:EOLhyphen"/>guage, as a ſober <hi>Heathen</hi> would bluſh at; ſince few perſons make a conſcience of thoſe Jears, which touch a man to the quick, thoſe Genteel ways of leſs'ning his Reputation, by inſinuating his Frailties, and ridiculing his Hu<g ref="char:EOLhyphen"/>mour, becauſe 'tis done in ſport, and for diverſion of the Compa<g ref="char:EOLhyphen"/>ny: Therefore, I beſeech thee, O Lord, open my eyes, and con<g ref="char:EOLhyphen"/>vince
+<pb n="71" facs="tcp:172064:55"/>me, that theſe ſins (which I am apt to call pardonable In<g ref="char:EOLhyphen"/>firmities) diſpleaſe thee the more, in that they are agreeable to our corrupt Natures, and the genuine off ſpring of ſelf-love.</p>
+               <p>Let me heartily deteſt this miſchievous diverſion, to which I have been too much given up; let my ſorrow for this ſin in ſome meaſure equal the pleaſure I took in it; and let that which was the great Incentive of my Guilt, produce a Fountain of Tears to blot it out.</p>
+               <p>For is it not highly reaſonable, O Lord, that I ſhould bewail that Mirth whereby I have injur'd my Neighbour, and undone my ſelf; and that Laughter which has coſt me my Soul, and the Fa<g ref="char:EOLhyphen"/>vour of my God? Is it not juſt, that ſeeing I cannot make any extraordinary demonſtrations of my Repentance and Love to
+<pb n="72" facs="tcp:172064:56"/>thee; I ſhould teſtifie the ſince<g ref="char:EOLhyphen"/>rity of my Intentions, by ab<g ref="char:EOLhyphen"/>ſtaining from every thing which gratifies my Natural Corruption; that by a diſcreet reſervedneſs in my diſcourſe for the future, I ſhould endeavour to make a<g ref="char:EOLhyphen"/>mends for the former laviſhneſs of my Tongue; and by caſting out all thoſe ſins which have offended thee, invite thy return into the Temple of my Soul?</p>
+               <p>Whenſoever therefore, O my God, I have any deſires to con<g ref="char:EOLhyphen"/>form my ſelf to the World, to gratiſie my depraved Appetites, or to ſhew the gayety of my Hu<g ref="char:EOLhyphen"/>mour; whenſoever theſe ſinful de<g ref="char:EOLhyphen"/>lights come into my mind, and begin to blow up the ſparks of my corruption; whenſoever I per<g ref="char:EOLhyphen"/>ceive theſe motions of compla<g ref="char:EOLhyphen"/>cency towards my ſelf, and envy againſt my Neighbour, theſe fer<g ref="char:EOLhyphen"/>ments of my paſſions, and melan<g ref="char:EOLhyphen"/>choly
+<pb n="73" facs="tcp:172064:56"/>diſtemper of my mind, which if in the leaſt encouraged, will eaſily get the better of me: Then let me conſider, O Lord, that if I do not carefully ſuppreſs theſe firſt motions to ſin, I reſign up my Soul to its moſt inveterate Enemies: and on the contrary, if I nip them in the bud, if I ſacrifice my paſſions and my plea<g ref="char:EOLhyphen"/>ſures unto thee, I ſhall encline thee to have Mercy upon me, and to blot out my Offences, I ſhall give thee the Homage of a contrite and penitent Heart, <hi>In which thou art well pleaſed.</hi>
+               </p>
+               <p>Shew me therefore, that <hi>theſe are the Fruits worthy of Repentance;</hi> theſe are the Reſtitutions thou requireſt of me, and the choiceſt Victims my love can offer up.</p>
+            </div>
+            <div n="18" type="reflection">
+               <pb n="74" facs="tcp:172064:57"/>
+               <head>
+                  <hi>REFLECT. XVIII.</hi> That ſhe ought to deſire of God the Gift of Prayer? which is the only means the Soul can make uſe of to corfirm its wavering Reſolu<g ref="char:EOLhyphen"/>tions.</head>
+               <p>O God, who takeſt delight in rewarding that ſervant, <hi>who has been faithful in a few things,</hi> ſupply the indigency of my love out of the abundance of thy good<g ref="char:EOLhyphen"/>neſs; Let its ſhallow ſtreams be ſwallow'd up in the vaſt Ocean of thy Divine Charity, loſe them<g ref="char:EOLhyphen"/>ſelves in it, and be mixed with it, that ſo it may be always conform<g ref="char:EOLhyphen"/>able unto thine.</p>
+               <p>For I confeſs my frailty, that my Heart is an ungrateful and barren Soil, producing nothing but Briers and Thorns, unleſs cultivated by thy Grace; Water
+<pb n="75" facs="tcp:172064:57"/>it therefore, O Lord, with the Dew of Heaven, which gives fruitfulneſs to the Plants, and paints the Flowers; which inclines our wills, and affects our hearts; which after it has produc'd in our Soul, <hi>Works worthy of Repen<g ref="char:EOLhyphen"/>tance,</hi> protects them from thoſe ſcorching beams, the flames of our luſt, and preſerves them ſafe unto the Harveſt.</p>
+               <p>This is the comfortable hope and earneſt deſire of thy poor ſervant, that which ſuſtains him in this tedious Pilgrimage, whilſt he languiſhes with expectation of the <hi>Beatifical Viſion.</hi>
+               </p>
+               <p>But that thy Inſpirations may have the deſired effect upon my Soul, that I may receive them with ſuitable affections, that I may prepare my heart for ſo great favours which thou art pleas'd to beſtow upon it. With my eyes and hands lift up to
+<pb n="76" facs="tcp:172064:58"/>Heaven, I will meet theſe Bleſ<g ref="char:EOLhyphen"/>ſings, I will forſake every ſin which unfits me for them, and do all the good thy Grace ſhall enable me to perform. And that the ſtreams of thy Mercy may never fail me, a poor thirſty ſin<g ref="char:EOLhyphen"/>ner, I will continually encreaſe them with my Tears; that is to ſay, Lord, by an hearty repen<g ref="char:EOLhyphen"/>tance and an affectionate grief for having ſo often offended thee.</p>
+               <p>And ſince Prayer is the Chan<g ref="char:EOLhyphen"/>nel by which thou conveyeſt thy Grace and thy Light into our Souls, ſince it is the moſt fra<g ref="char:EOLhyphen"/>grant Incence I can offer up unto thee, for obtaining of freſh Mer<g ref="char:EOLhyphen"/>cies; teach me to Pray unto thee with Reverence, with the Adora<g ref="char:EOLhyphen"/>tion of all my Faculties, and with my whole Heart.</p>
+               <p>And that I may the more de<g ref="char:EOLhyphen"/>voutly perform this Duty, ſhew me the Neceſſity, and the Advan<g ref="char:EOLhyphen"/>tage
+<pb n="77" facs="tcp:172064:58"/>of it, take away their ſur<g ref="char:EOLhyphen"/>priſe, which the very name of Prayer is apt to produce in me, and ſhew me that 'tis not ſo diffi<g ref="char:EOLhyphen"/>cult, ſo tireſom a Duty as ſome perſons repreſent it to them<g ref="char:EOLhyphen"/>ſelves, who are ignorant <hi>that as in thy Houſe there are many Man<g ref="char:EOLhyphen"/>ſions,</hi> ſo there are different ways of converſing with thee; ſome of which require only the ſince<g ref="char:EOLhyphen"/>rity of our Hearts.</p>
+            </div>
+            <div n="19" type="reflection">
+               <pb n="78" facs="tcp:172064:59"/>
+               <head>
+                  <hi>REELECT. XIX.</hi> What the Nature of Prayer is, and how faithful a Penitent Soul ought to be to its Reſolutions of conſtantly performing this Holy Exerciſe.</head>
+               <p>'TIs true, Lord, that the Prayer of a Devout Soul, (who has retir'd himſelf from the World, and is fill'd with the Joys of thy Holy Spirit) is like a Box of precious Ointment, which as ſoon as ever it ap<g ref="char:EOLhyphen"/>proaches the fire, ſends forth a fragrant Odour: and that the Croans of a poor Creature, who lies groveling on the Earth, who only crawls on in the path of Vertue are like troubled Wa<g ref="char:EOLhyphen"/>ters, which muſt be diſtil'd drop by drop, before they will afford any uſeful Liquor.</p>
+               <pb n="79" facs="tcp:172064:59"/>
+               <p>Neverthereſs, O my God, it ſeems moſt reaſonable (that ſince Prayer is only a lifting up of our hearts unto thee, in which we lay before thee our Wants and beg Supplies) I ſay, it ſeems moſt reaſonable to me, that ſhe who is tormoiled with the Affairs of the World, who finds her ſelf in a languiſh<g ref="char:EOLhyphen"/>ing Condition, harras'd by a thouſand Miſeries, and ſurround<g ref="char:EOLhyphen"/>ed with a thouſand Dangers; is under a more preſſing neceſ<g ref="char:EOLhyphen"/>ſity of Praying to thee, than the Religious perſon who is hedg'd about with thy Mer<g ref="char:EOLhyphen"/>cies.</p>
+               <p>It appears highly reaſonable to me, not only that ſhe is un<g ref="char:EOLhyphen"/>der a greater neceſſity, but alſo that ſhe is better diſpoſed to perform this Duty of Prayer, than one who is more habitually devout; becauſe ſhe cannot chuſe
+<pb n="80" facs="tcp:172064:60"/>but do it, whether ſhe thinks of it or no: For if 'tis natural for a poor man to ask an Alms, for a ſick man to bemoan himſelf, and for one in danger to lift up his eyes towards Heaven; How much more natural is it for that Soul to pray unto his God, who is continually preſſed with theſe three Calamities; who is always poor, always ſick, and always in danger, the three chief hinges upon which this Duty turns.</p>
+               <p>Therefore that I may delight my ſelf in this Angelick Exerciſe, teach me, O my God, that Prayer is nothing elſe but a pleaſing converſe between the Soul and its Creator; a Torch which diſpels the darkneſs of its un<g ref="char:EOLhyphen"/>derſtanding, and a Glaſs which truly repreſents all its imperfe<g ref="char:EOLhyphen"/>ctions.</p>
+               <pb n="81" facs="tcp:172064:60"/>
+               <p>An Eloquent Preacher, who Imprints the Law of God in our Minds; a faithful Guide, who conducts us ſafely through the ſtrait Way of our Salvati<g ref="char:EOLhyphen"/>on; a ſweet Sleep, which gives the Soul repoſe in the Arms of God's Providence; a Holy Joy, which renders ſinful pleaſures nauſeous, and all ſenful delights inſipid, in compariſon with thoſe of the Croſs.</p>
+               <p>A comfortable contemplation of our latter end, which tames our Appetites with the thoughts of Death, which ſweetens his ap<g ref="char:EOLhyphen"/>proaches with the Expectation of Eternity, and an ardent Deſire of the <hi>Beatifical Viſion.</hi>
+               </p>
+               <p>Laſtly, 'Tis the Crucifixion of our Paſſions, the Mortification of our Self-love, and the Reſurrecti<g ref="char:EOLhyphen"/>on of the Grace of Jeſus Chriſt in our Souls.</p>
+               <pb n="82" facs="tcp:172064:61"/>
+               <p>Prepare therefore the Palate of my Soul, O my God, that it may reliſh this delicious Man<g ref="char:EOLhyphen"/>na: for the only way <hi>to per<g ref="char:EOLhyphen"/>ſevere to the end in thy Com<g ref="char:EOLhyphen"/>mandnients, in the midſt of a crooked and perverſe Genera<g ref="char:EOLhyphen"/>tion,</hi> to ſlight the World and all its Vanities, and to love thee above all things, is to converſe with thee by Prayer, not only as with our Father and our God, but as with our moſt affectionate and familiar Friend. I would ſay, Lord, the only way to lay before thee all thoſe Paſſions which tyranniſe in our Minds, all thoſe terrible Objects which fright us, all thoſe Frailties which humble us, all thoſe Sorrows which conſume us, all thoſe Griefs which rend us; and to delineate all the confuſion of our Minds, is to come unto thee, (as holy <hi>David</hi> did) and lay
+<pb n="83" facs="tcp:172064:61"/>all our Affictions, all the bur<g ref="char:EOLhyphen"/>then of our Souls, and all our Prayers at the Foot-ſtool of thy Throne.</p>
+               <p>For alas! if our Self-love takes ſo much pleaſure in relating our Afflictions to our impotent Friends, who can do nothing but hear and pity them; how much greater comfort ſhould it be, that we are encouraged to pour out our Wants before a God, who, if he pleaſes, can help us; who is oftentimes more delighted to ſee a Soul humbled by its Miſery, than elated with the Eminent In<g ref="char:EOLhyphen"/>ſtances of its Vertue.</p>
+               <p>Incline me therefore, O my God, to ſpend ſome moments every day at the Foot-ſtool of thy Throne, and let me not lie poring on a Picture, or repeat my Prayers from a Book which I do not underſtand; but let the Subject of my Devotions be,
+<pb n="84" facs="tcp:172064:62"/>my own Wants, and whatſoe<g ref="char:EOLhyphen"/>ver may render me more humble. For I am too ſenſible of my own Imperfections, to diſtract my Mind with other Objects, beſides my own Miſery and the infinite Mercy of my God.</p>
+            </div>
+            <div n="20" type="reflection">
+               <head>
+                  <hi>REFLECT. XX.</hi> That the Miſery to which Sin has reduc'd us, ought to be the Sub<g ref="char:EOLhyphen"/>ject of our Prayers, and that 'tis good to begin them with the Conſiderations of the ſtupendi<g ref="char:EOLhyphen"/>ous Myſterie of our Saviour's Paſſion.</head>
+               <p>ALas! how can I meditate on my Vileneſs, who am puft up with Pride, who can only Pray unto thee, to break off my Ambition and Vain-glory, which like unmanagable Horſes,
+<pb n="85" facs="tcp:172064:62"/>precipitate my Soul into the Abyſs of thy fiery Indignation.</p>
+               <p>How can I hearken to thy Word, or taſte the ſweet Com<g ref="char:EOLhyphen"/>forts of thy Holy Spirit, who am ſurrounded with a thouſand Paſſions, a thouſand Vanities, which diſtract my thoughts, when I come to appear before thee? What can I do more, than Groan within my ſelf, when, as the Royal <hi>Pſalmiſt</hi> has it, <hi>my feet are hurt with the fetters of ſin,</hi> and I am in Captivity to my Un<g ref="char:EOLhyphen"/>mortified Affections; until the gentle Influences of thy Grace create in my heart a love to thy Law.</p>
+               <p>How can I lift up my ſelf to Heaven, whilſt my Affections are groveling on the Earth? How can I contemplate thy Greatneſs and thy Excellencies, whilſt my mind is diſtracted by its own Miſeries, and aſtoniſhed at that
+<pb n="86" facs="tcp:172064:63"/>imminent danger, which only gives me ſpace to beg thy Mercy, and to ſay, with the Apoſtles, <hi>Lord, ſave us, or we periſh.</hi>
+               </p>
+               <p>Nevertheleſs, O my Lord, ſince the remembrance of thy bit<g ref="char:EOLhyphen"/>ter Paſſion ought to be deeply engraven upon my Soul; Grant, O my God, that the beginning of my Prayer may have a reſpect to that adorable Myſterie, that my heart may be mollifi'd by the conſideration of thy ſufferings, render'd more ſuſceptable of the impreſſions of thy Love and thy Grace; and Meditate with more benefit on its own Vanity.</p>
+            </div>
+            <div n="21" type="reflection">
+               <pb n="87" facs="tcp:172064:63"/>
+               <head>
+                  <hi>REFLECT. XXI.</hi> That we ought not to be weary of Praying, becauſe we do not find preſent Comfort, but that we ſhould be faithful to our Reſolu<g ref="char:EOLhyphen"/>tions, and have recourſe to this Holy Exerciſe, when we are wrack'd by the greatest pains, and diſtreſs'd by the ſeverest Af<g ref="char:EOLhyphen"/>flictions.</head>
+               <p>OH! that I could be ſo con<g ref="char:EOLhyphen"/>ſtand in my Reſolutions, as every day to proſtrate my ſelf at the Foot-ſtool of thy Throne, at that ſet-time which I have conſe<g ref="char:EOLhyphen"/>crated unto thee, when thou art pleas'd to give me Audience; and that nothing might divert me from performing <hi>this one thing ne<g ref="char:EOLhyphen"/>ceſſary.</hi>
+               </p>
+               <pb n="88" facs="tcp:172064:64"/>
+               <p>Let me conſtantly throw my ſelf at thy feet, in whatſoever condition my Soul may be; to the end that when diſtractions and barrenneſs of mind hinder me from fixing my thoughts upon thee, or ſpeaking of any thing, but thoſe Vanities which have taken poſſeſſion of my heart; then the labour which I undergo, thoſe painful pangs which I endure, and thoſe irk<g ref="char:EOLhyphen"/>ſom attempts which I make to pour forth a Prayer, may render it more acceptable unto thee.</p>
+               <p>Let me not fancy, that thou haſt abandoned me, becauſe my mind is ſometimes over<g ref="char:EOLhyphen"/>whelmed with the load of my Corruption, becauſe at ſuch a time as this I cannot form ſo much as one good thought: For I will ſtill look up and pray unto thee; I will ſay with that great
+<pb n="89" facs="tcp:172064:64"/>King, the holy <hi>David, I am like a beaſt before thee,</hi> without ſpirit, without ſpeech, and without con<g ref="char:EOLhyphen"/>ſideration.</p>
+               <p>Tho' I cannot perform this Duty with a ſteady intention of mind, yet I will not depart from the Foot-ſtool of thy Throne; I will pray unto thee with my Heart and with my Will, I will put my truſt in thy Goodneſs; and tho' thou may'ſt not for the preſent unite my Soul unto thy ſelf, by the ſweet influ<g ref="char:EOLhyphen"/>ences of thy Grace, yet thou wilt accept of my endeavour in this deplorable condition, and eſteem it as a teſtimony of my ſincere af<g ref="char:EOLhyphen"/>fection, that it cleaves unto thee, as well when thou art pleaſed to withdraw thy Comforts, as when it enjoys thy raviſhing Conſolati<g ref="char:EOLhyphen"/>ons.</p>
+               <pb n="90" facs="tcp:172064:65"/>
+               <p>But, good Lord, let me not only Pray unto thee with my Underſtanding, and with my Tongue, but alſo with my Heart; Let me not only Pray unto thee in my Cloſet, and in the Church, where the conſide<g ref="char:EOLhyphen"/>ration of thy Divine Preſence inſpires me with Devotion; but grant, O my God, that by Acts of Faith, Hope, and Cha<g ref="char:EOLhyphen"/>rity, I may conſecrate unto thee, the Oratory of my Heart; in which I will offer up the Sacrifice of Prayer; For the Devotion of a true Chriſtian is not con<g ref="char:EOLhyphen"/>fin'd to Words, but extends it ſelf unto his Thoughts and Acti<g ref="char:EOLhyphen"/>ons, in all Places and upon all Occaſions.</p>
+               <p>I will do this in the midſt of my Wordly Buſineſs, nay in the midſt of my Diverſions, when retiring my ſelf into that Cloſet of my Breaſt, which is
+<pb n="91" facs="tcp:172064:65"/>dedicated to thee alone, where no eye but thine ſees me; I will addreſs my prayer unto thee.</p>
+               <p>When I find my ſelf moſt ex<g ref="char:EOLhyphen"/>pos'd to Temptation, when I have the greateſt ſenſe of my ovvn Weakneſs; when Self-love moſt Tyrannizes over me, and the ſvveet poyſon of pleaſure moſt allures my Soul; then will I ſigh moſt fervently unto thee, and without waiting for a ſuitable place, or more convenient time, I will preſently lay open the Wounds of my Soul and implore thy help.</p>
+               <p>This ſhall be at the beginning and end of all my Actions, in the Morning and at Night; in the midſt of my Journeys my heart ſhall take thee for its <hi>Polar</hi> Star; it ſhall relye upon thee in every condition, yield it ſelf up to thy Conduct, and implore the ſuccours of thy Grace. And
+<pb n="90" facs="tcp:172064:66"/>
+                  <pb n="91" facs="tcp:172064:66"/>
+                  <pb n="92" facs="tcp:172064:67"/>this will be done with the greater eaſe, becauſe I ſhall better expreſs my own vvants and my entire de<g ref="char:EOLhyphen"/>pendance on thy Mercy, by one ſingle ſigh, which proceeds from the bottom of my Oppreſſed Heart, than by the moſt prolix Devotions.</p>
+               <p>I will joyn vvith thy Saints, and praiſe thee in thy Sanctuary with my Lips and my vvith voice; but I will alſo Pray unto thee with Sighs ahd Groans unutter<g ref="char:EOLhyphen"/>able; in my greateſt dangers, and under the moſt violent pains I will look up unto thee, and in all the actions of my life, with holy <hi>David, I will have thee always before my eyes.</hi>
+               </p>
+            </div>
+            <div n="22" type="reflection">
+               <pb n="93" facs="tcp:172064:67"/>
+               <head>
+                  <hi>REFLECT. XXII.</hi> The indiſpenſable Neceſſity of Pray<g ref="char:EOLhyphen"/>er, without which 'tis impoſſible to have any ſerious thoughts of our Salvation.</head>
+               <p>WHat is that Soul, O my God, who lives in this World without Prayer? I ſpeak not of thoſe perſons who only mind their Pleaſures, and pro<g ref="char:EOLhyphen"/>viding for their Bodies, who are Chriſtians in Name only, and may be more fitly rank'd amongſt brute Beaſts, than reaſonable Creatures.</p>
+               <p>But I mean thoſe who frequent<g ref="char:EOLhyphen"/>ly reflect upon themſelves, who conſider to what end a Rational Soul was given them, and domi<g ref="char:EOLhyphen"/>nion over the reſt of the Crea<g ref="char:EOLhyphen"/>tion.</p>
+               <pb n="94" facs="tcp:172064:68"/>
+               <p>Who conſider that there is a God; I mean, are convinc'd, that none but Fools doubt of it.</p>
+               <p>Who conſider how it comes to paſs, that thoſe perſons who believe the Hiſtories of <hi>Alexander</hi> and <hi>Caeſar,</hi> yet queſtion that of Jeſus Chriſt.</p>
+               <p>Who conſider whether that Faith which was propagated by twelve poor Fiſhermen, and con<g ref="char:EOLhyphen"/>firm'd by an infinite number of Miracles wrought in the ſight of all nations, can now reaſonably be call'd in queſtion.</p>
+               <p>Who conſider whether that <hi>Army of Martyrs,</hi> who ſeal'd this Faith with their Blood, are not a ſufficient <hi>cloud of Witneſſes</hi> to evince its Truth.</p>
+               <p>Who conſider whether all thoſe Propheſies in the Old Te<g ref="char:EOLhyphen"/>ſtament, concerning the Coming
+<pb n="95" facs="tcp:172064:68"/>and Kingdom of the Meſſiah which have been punctually ac<g ref="char:EOLhyphen"/>compliſh'd, ought to paſs for Fables.</p>
+               <p>Who conſider thoſe incom<g ref="char:EOLhyphen"/>prehenſible Myſteries, the Ef<g ref="char:EOLhyphen"/>fects of the Omnipotent Grace of Jeſus Chriſt, and his infinite Love towards us his poor Crea<g ref="char:EOLhyphen"/>tures.</p>
+               <p>Laſtly, Who conſider all God's wonderful Works upon their Souls, that admirable Conduct, which at the ſame enlightneth our Underſtandings, by his Fa<g ref="char:EOLhyphen"/>therly Corrections, and preſerves us, which by his Divine Pro<g ref="char:EOLhyphen"/>vidence orders all things for ſome end beſt known unto him<g ref="char:EOLhyphen"/>ſelf; and makes every thing tend to the welfare and advantage of his Elect.</p>
+               <pb n="96" facs="tcp:172064:69"/>
+               <p>'Tis for theſe perſons (who having the clouds of their Un<g ref="char:EOLhyphen"/>derſtandings diſpell'd by the light of theſe indubitable truths, yet are preſently blinded by the vanities of the World) 'tis for their Good, as well as my own, I conſider, That a Soul in this World, without Prayer, with<g ref="char:EOLhyphen"/>out reflection, and without Re<g ref="char:EOLhyphen"/>liance upon God's Providence, is like a Ship in the midſt of a Tempeſt, without a Pilot, like a Man who fancies himſelf won<g ref="char:EOLhyphen"/>derfully enlightned and yet is blinded with the thinkeſt Miſts of Ignorance and Error.</p>
+               <p>He is like that perſon who fancies he knows God, has Faith, Hope, and Charity, and yet adores his Idol-paſſions; he is like a Traveller in a ſtrange Country, without either Guide or Compaſs, who the faſter he
+<pb n="97" facs="tcp:172064:69"/>walks, the farther he wanders from his Home.</p>
+               <p>He is like that perſon who be<g ref="char:EOLhyphen"/>ing tumbled into the bottom of a deep Pit, yet will not make uſe of the Cord which is let down to draw him up.</p>
+               <p>Laſtly, He is like that fooliſh builder, who endeavours to erect a Magnificent Pallace, without a Foundation.</p>
+               <p>For how can he work out his Salvation, <hi>who has not God in all his thoughts?</hi> How can he obſerve his Laws, and obey his Command<g ref="char:EOLhyphen"/>ments, who never thinks on them? How can he bridle his Tongue, and all his head-ſtrong Paſſions, without the aſſiſtance of God's Grace? And how can he ob<g ref="char:EOLhyphen"/>tain this Grace, who will not be at the pains to ask it? How can he avoid falling into Deſpair, who goes on in a ſinful courſe of
+<pb n="98" facs="tcp:172064:70"/>life, which he knows will end in the Damnation of his Soul? Who either uſes the moſt pre<g ref="char:EOLhyphen"/>poſterous means imaginable to quiet his Conſcience; that is, by putting out of his mind the thoughts of another Life, an Eternity, and a God; or elſe doth not <hi>place his truſt in him.</hi>
+               </p>
+               <p>In fine, How can he be a good Chriſtian and love Jeſus Chriſt, who does not know him, does not conſider that he dy'd for us, does not meditate on his Life, his Actions, or his Holy Goſpel?</p>
+            </div>
+            <div n="23" type="reflection">
+               <pb n="99" facs="tcp:172064:70"/>
+               <head>
+                  <hi>REFLECT. XXIII.</hi> She deſires of God the Gift of Prayer, that ſhe may make Death, Eternity, and God's Judgments the Subject of it; which are the proper means to ſeaſon our Souls with the Fear of God.</head>
+               <p>AH Lord, ſince I am convinc'd, that Prayer (which is nothing but the lifting up of our Souls unto thee, our continual endea<g ref="char:EOLhyphen"/>vour to pluck down the ſtrong<g ref="char:EOLhyphen"/>holds of Satan, and eſtabliſh the Kingdom of Jeſus Chriſt) is ſo eaſie, ſo neceſſary and ſo Profi<g ref="char:EOLhyphen"/>tacle a Duty.</p>
+               <p>Since I am aſſured by thy Holy Word, and the Examples of Holy Men, that 'tis a floating plank which will bear up my Soul in all the ſtorms of this life, and
+<pb n="100" facs="tcp:172064:71"/>convey it ſafe into the bleſſed Ha<g ref="char:EOLhyphen"/>ven of Eternity; that is, <hi>to the Hea<g ref="char:EOLhyphen"/>venly</hi> Jeruſalem <hi>which is above, where all tears ſhall be wiped away from our eyes,</hi> and we ſhall enjoy <hi>thoſe pleaſures which are at thy right-hand, for evermore.</hi>
+               </p>
+               <p>Give me an earneſt Deſire and Delight in Praying to thee; let it be as pleaſant and familiar, as ever the Vanities of the World have been, for which I have ſo often hazarded the Salvation of my Soul.</p>
+               <p>But ſince Death is the end of all things, and the moſt profi<g ref="char:EOLhyphen"/>table Subject of our Meditations; Grant, O my God, that I may daily <hi>conſider my laſt end; when</hi> (to ſpeak in the Words of the Holy Scripture) <hi>my breath goeth forth, I return to the earth, and in that very day my thoughts periſh.</hi>
+               </p>
+               <pb n="101" facs="tcp:172064:71"/>
+               <p>That Time which <hi>will come like a Thief in the Night,</hi> and ſeize up<g ref="char:EOLhyphen"/>on our Souls.</p>
+               <p>That Time after which there will be no more ſpace for Repen<g ref="char:EOLhyphen"/>tance.</p>
+               <p>That Time for which we ought to be prepared all the days of our life, that we may not be ſurpri<g ref="char:EOLhyphen"/>ſed thereby.</p>
+               <p>That Time on which de<g ref="char:EOLhyphen"/>pends the Happineſs or Mi<g ref="char:EOLhyphen"/>ſery of our Souls to all Eter<g ref="char:EOLhyphen"/>nity.</p>
+               <p>O Death! how dreadful are thy Approaches to thoſe perſons who never thought of thee, who placed all their Happineſs in the Goods of this World?</p>
+               <p>O Death! how terrible art thou to thoſe men unto whom thou art, the end of their Hap<g ref="char:EOLhyphen"/>pineſs, and the beginning of their Sorrows.</p>
+               <pb n="102" facs="tcp:172064:72"/>
+               <p>In ſhort, By which they are de<g ref="char:EOLhyphen"/>prived of all the Enjoyments of this World, of that Body which they ſo much Idoliz'd, of a Vo<g ref="char:EOLhyphen"/>luptuous Life and the gratificati<g ref="char:EOLhyphen"/>on of their Inordinate Appetites. I ſay, How terrible art thou to thoſe, who never knew God, but only to offend him?</p>
+               <p>But then how much more amazing is the Contemplation of Eternity, to thoſe men who never purſu'd any other Happi<g ref="char:EOLhyphen"/>neſs, but what this life affords; who never thought of Repen<g ref="char:EOLhyphen"/>tance and forſaking their ſins, until they were unable to pur<g ref="char:EOLhyphen"/>ſue their Luſts, and rendred in<g ref="char:EOLhyphen"/>capable to receive the impreſſi<g ref="char:EOLhyphen"/>ons of any other Paſſion, but Fear?</p>
+               <p>O Eternity, Eternity! how exquiſitely Tormenting are the thoughts of thee to that per<g ref="char:EOLhyphen"/>ſon,
+<pb n="103" facs="tcp:172064:72"/>who beholds Hell ready to receive him for the puniſh<g ref="char:EOLhyphen"/>ment of their ſins, who dares not Hope in God's Mercy, but would think himſelf ſufficiently happy, could he but have the ſame end <hi>with the Beaſts that periſh.</hi>
+               </p>
+               <p>And finally, O Eternity! How dreadful are the thoughts of thee to that perſon, who at his laſt hour, finds that he cannot Love God, and yet cannot chuſe but Fear him.</p>
+               <p>But, O bleſſed Eternity! how comfortable art thou to that per<g ref="char:EOLhyphen"/>ſon who has led a good Life, and mortifi'd his Corruptions in this World.</p>
+               <p>To a Sinner who is Converted, has Repented of his Sins, and has a good Foundation of Hope in thy Mercy.</p>
+               <pb n="104" facs="tcp:172064:73"/>
+               <p>To him who is accuſtomed <hi>to die daily,</hi> and has forſaken the World and its Vanities, before he is compelled to it by the unalte<g ref="char:EOLhyphen"/>rable Law of Nature.</p>
+               <p>In fine, to him who ſincerely loves God, and enjoys in this life the earneſt of Eternal Hap<g ref="char:EOLhyphen"/>pineſs.</p>
+            </div>
+            <div n="24" type="reflection">
+               <pb n="105" facs="tcp:172064:73"/>
+               <head>
+                  <hi>REFLECT. XXIV.</hi> That ſhe will every Day offer up unto God the Sacrifice of Thanks<g ref="char:EOLhyphen"/>giving, for opening her Eyes and converting her unto him<g ref="char:EOLhyphen"/>ſelf. That ſhe will Write down theſe Reſolutions which ſhe made at the time of her Converſion; to the end that ſhe may be al<g ref="char:EOLhyphen"/>ways mindful of theſe Obliga<g ref="char:EOLhyphen"/>tions ſhe has laid upon her ſelf, and by which ſhe muſt be Judg'd at the Last Day.</head>
+               <p>AH! Lord, who in work<g ref="char:EOLhyphen"/>ing thy Miracles doſt al<g ref="char:EOLhyphen"/>ways regard ſome great end, Haſt thou not reſtored my Health, that thou may'ſt accompliſh the bleſſed purpoſes of thy Grace upon my Soul, that by a thorough converſion of my Heart unto
+<pb n="106" facs="tcp:172064:74"/>thee, I might paſs from this ſtate of death, (or as the Royal Pro<g ref="char:EOLhyphen"/>phet ſpeaks) <hi>from the Terrors of Hell,</hi> to ſuch a Religious courſe of Life, as thoſe Devout Souls led, who now ſleep in the Lord; who did not preſume on thy Mercy, and from thence defer their Repentance to the laſt Mo<g ref="char:EOLhyphen"/>ment?</p>
+               <p>Yes, Lord, I acknowledge thy Mercy in the midſt of thy Judge<g ref="char:EOLhyphen"/>ments, and the conſtant protecti<g ref="char:EOLhyphen"/>on of thy Providence in all the Accidents of my life.</p>
+               <p>For this is the Reaſon why thou haſt ſo much Afflicted me, ſo much diſtreſſed me, ſo often changed my Deſires and my Reſolutions, that hereby thou may'ſt wean me from my ſelf.</p>
+               <p>And therefore that I may maintain an inviolable Fidelity ty towards thee for the future,
+<pb n="107" facs="tcp:172064:74"/>that I may ſerve thee, that I may love thee, and rather die a thouſand times than return again to my former Vain Converſati<g ref="char:EOLhyphen"/>on; I have Writ this Paper with my own hand, as a Regiſter of thy Mercies, my moſt Intimate Reſolutions, and all thy Adora<g ref="char:EOLhyphen"/>ble Truths: That if at any time I ſhould forget my ſelf, I might hereby be put in mind of my Du<g ref="char:EOLhyphen"/>ty, and that Model of Holy Li<g ref="char:EOLhyphen"/>ving I have reſolved on; if my Faith ſhould falter, my Hope ſhould languiſh, or my Charity grow cold, and my Corruptions begin to ſtruggle in my Soul; the reading of theſe Prayers and the contemplation of thy Boun<g ref="char:EOLhyphen"/>ty and thy Grace, might reduce them to their former temper.</p>
+               <p>That if at any time I ſhould forget that Agony which the conſideration of thy Juſtice pro<g ref="char:EOLhyphen"/>duc'd
+<pb n="108" facs="tcp:172064:75"/>in my Mind, when like a condemned Malefactor on the Scaffold, I was impatient to be freed from the Terrors of Death; I might recollect my ſelf by read<g ref="char:EOLhyphen"/>ing of theſe Reflections, which I writ upon this ſelf-ſame Bed, where the Miniſters on one ſide, and the Phyſicians on the other, gave me little Hope of my Life, or my Salvation; where I lay helpleſs, like a poor Beaſt, and could do nothing in this Great Work.</p>
+               <p>O thou God of my Salvation! in whoſe hands are my Soul and my Eternal Happineſs, who didſt reprieve me from the Grave, and didſt crown me with thy Mer<g ref="char:EOLhyphen"/>cies, and fill my Soul with Holy Deſires, <hi>who haſt renow'd my Age, as that of an Eagle;</hi> who haſt pro<g ref="char:EOLhyphen"/>miſed, that thy <hi>Anger ſhall not endure for ever</hi> againſt thoſe who
+<pb n="109" facs="tcp:172064:75"/>fear thee; <hi>that thou wilt not pu<g ref="char:EOLhyphen"/>niſh them according to their deſerts,</hi> but wilt put away their Offences <hi>as far as the Eaſt is from the Weſt;</hi> who aſſureſt us, that like <hi>as a Father pittieth his Children, ſo thou wilt have compaſſion on us;</hi> becauſe thou knoweſt our weakneſs, and <hi>that we are but duſt;</hi> that our moſt ſteady Reſolutions are but <hi>as a Traveller who tarrieth but for a night, and as the morning dew, which ſoon paſſeth away.</hi>
+               </p>
+               <p>Laſtly, Who workeſt good out of the evil of our ſins, and who alone canſt convert me: I beſeech thee therefore to turn my Heart.</p>
+               <p>Becauſe my Soul is humbled and overwhelmed with ſhame and grief for diſpleaſing thee.</p>
+               <p>Becauſe my Soul puts its truſt in thee; and languiſhes after the enjoyment of thy preſence.</p>
+               <pb n="110" facs="tcp:172064:76"/>
+               <p>But above all, O my God, hear my humble Supplication, becauſe I have made thee the only Object of my Love, and becauſe <hi>thy Mer<g ref="char:EOLhyphen"/>cy rejoyces over all thy Works.</hi>
+               </p>
+               <p>Finally, Lord, have pity on me, becauſe I am poor and miſerable, and thou art Infinitely Rich and Merciful.</p>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:172064:76"/>
+            <head>Advertiſemenas.</head>
+            <p>A Week of Soliloquies and Prayers: with a Preparati<g ref="char:EOLhyphen"/>on to the Holy Communion. And other Devotions added to this Edition. In two parts. By <hi>Pe<g ref="char:EOLhyphen"/>ter Du-Moulin,</hi> D. D.</p>
+            <p>A Golden Chain to link the Pe<g ref="char:EOLhyphen"/>nitent Sinner unto GOD. Where<g ref="char:EOLhyphen"/>unto is added, A Treatiſe of the Immortality of the Soul.</p>
+            <p>The Hiſtory of the Amours of the <hi>French</hi> Gourt, <hi>viz.</hi> Of Madam <hi>de La Valleire,</hi> Madam <hi>de Olonne,</hi> Madam <hi>de Chaſtillion,</hi> Madam <hi>de Sevigney,</hi> with ſeveral other Per<g ref="char:EOLhyphen"/>ſons of great Quality, in the Pa<g ref="char:EOLhyphen"/>lace-Royal. In four Parts. Tran<g ref="char:EOLhyphen"/>ſlated from the <hi>French.</hi>
+            </p>
+            <p>
+               <hi>Sold by</hi> Dorman Newman <hi>at the</hi> Kings-Arms in the <hi>Poultry.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
